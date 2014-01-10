@@ -1,0 +1,1 @@
+'fuerza_muscular' : fields.selection([(1, 'Sin Edema'), (2, 'G 1 Leve (1cm)'), (3, 'G 2 Moderado (2cm)'), (4, 'G 3 Intenso (3cm)'), (5, 'G 4 Severo (4cm o mas)')], 'Fuerza Muscular'),
