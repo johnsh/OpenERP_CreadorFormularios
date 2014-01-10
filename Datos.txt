@@ -1,1 +1,3 @@
-b,Prueba de boolean
+b,prueba_boolean,Prueba de boolean
+b,auto,Prueba de boolean
+i,imc,Prueba de campo Integer

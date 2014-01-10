@@ -1,0 +1,5 @@
+'prueba_boolean' : fields.boolean('Prueba de boolean
+'),
+'prueba_de_boolean' : fields.boolean('Prueba de boolean
+'),
+'imc' : fields.integer('Prueba de campo Integer'),

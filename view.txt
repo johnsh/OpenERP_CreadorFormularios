@@ -1,0 +1,3 @@
+<field name="prueba_boolean" col="1"/>
+<field name="prueba_de_boolean" col="1"/>
+<field name="imc" col="1"/>

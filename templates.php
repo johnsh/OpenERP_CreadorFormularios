@@ -1,18 +1,19 @@
 <?php
 // Templates Campos.
 
-$tmpl = array();
+$tmpl_campos = array();
 
-$tmpl['tmpl_boolean'] = "'%' : fields.boolean('%')";
-
-$tmpl_boolean = "'%' : fields.boolean('%')";
-$tmpl_integer = "'%' : fields.integer('%')";
-$tmpl_selection = "'%' : fields.selection('%', '%s')";
-$tmpl_date = "'%' : fields.date('%')";
-$tmpl_datetime = "'%' : fields.datetime('%')";
-$tmpl_float = "'%' : fields.float('%', digits=%s)";
-$tmpl_char = "'%' : fields.char('%')";
+$tmpl_campos['b'] = "'%s' : fields.boolean('%s'),";
+$tmpl_campos['i'] = "'%s' : fields.integer('%s'),";
+$tmpl_campos['s'] = "'%s' : fields.selection('%s', '%s'),";
+$tmpl_campos['d'] = "'%s' : fields.date('%s'),";
+$tmpl_campos['dt'] = "'%s' : fields.datetime('%s'),";
+$tmpl_campos['f'] = "'%s' : fields.float('%s', digits=%s),";
+$tmpl_campos['c'] = "'%s' : fields.char('%s'),";
 
 // Templates Views
-$tmpl_field = '<field name="%" col="1"/>'
+$tmpl_view = array();
+
+$tmpl_view['field'] = '<field name="%s" col="1"/>';
+
 ?>
