@@ -41,6 +41,7 @@
 'cuello_fuerza_muscular_observaciones' : fields.text('Fuerza Muscular Observaciones:'),
 'cuello_trofismo_muscular' : fields.selection([(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')], 'Trofismo Muscular'),
 'cuello_trofismo_muscular_observaciones' : fields.text('Trofismo Muscular Observaciones:'),
+'cuello_trofismo_muscular_opciones' : fields.selection([(1,'General'),(2,'Especifica')], 'Trofismo Muscular Opciones'),
 'cuello_flexion' : fields.selection([(1,'Normal'),(2,'0'),(3,'35°'),(4,'45°')], 'Flexión'),
 'cuello_flexion_observaciones' : fields.text(' Flexión Observaciones:'),
 'cuello_extension' : fields.selection([(1,'Normla'),(2,'0'),(3,'35°'),(4,'45°')], 'Extensión'),
@@ -59,3 +60,5 @@
 'cuello_edema_horario' : fields.datetime('Horario:'),
 'cuello_edema_color' : fields.text('Color:'),
 'cuello_edema_temperatura' : fields.text('Temperatura:'),
+'cuello_sensibilidad' : fields.selection([(1,'Normal'),(2,'Tacto'),(3,'Dolor'),(4,'Temperatura'),(5,'Barestesia'),(6,'Barognosia'),(7,'Palestesia'),(9,'Batiestesia')], 'Sensibilidad'),
+'cuello_sensibilidad_observaciones' : fields.text('Sensibilidad Observaciones:'),

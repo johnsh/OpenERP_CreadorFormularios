@@ -41,6 +41,7 @@
 <field name="cuello_fuerza_muscular_observaciones" col="1"/>
 <field name="cuello_trofismo_muscular" col="1"/>
 <field name="cuello_trofismo_muscular_observaciones" col="1"/>
+<field name="cuello_trofismo_muscular_opciones" col="1"/>
 <field name="cuello_flexion" col="1"/>
 <field name="cuello_flexion_observaciones" col="1"/>
 <field name="cuello_extension" col="1"/>
@@ -59,3 +60,5 @@
 <field name="cuello_edema_horario" col="1"/>
 <field name="cuello_edema_color" col="1"/>
 <field name="cuello_edema_temperatura" col="1"/>
+<field name="cuello_sensibilidad" col="1"/>
+<field name="cuello_sensibilidad_observaciones" col="1"/>

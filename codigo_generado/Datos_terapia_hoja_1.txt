@@ -45,6 +45,7 @@ s;cuello_fuerza_muscular;Fuerza Muscular;[(1,'5'),(2,'4+'),(3,'4'),(5,'3+'),(6,'
 t;cuello_fuerza_muscular_observaciones;Fuerza Muscular Observaciones:
 s;cuello_trofismo_muscular;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
 t;cuello_trofismo_muscular_observaciones;Trofismo Muscular Observaciones:
+s;cuello_auto;Trofismo Muscular Opciones;[(1,'General'),(2,'Especifica')]
 s;cuello_flexion;Flexión;[(1,'Normal'),(2,'0'),(3,'35°'),(4,'45°')]
 t;cuello_flexion_observaciones; Flexión Observaciones:
 s;cuello_extension;Extensión;[(1,'Normla'),(2,'0'),(3,'35°'),(4,'45°')]
@@ -63,3 +64,6 @@ t;cuello_edema_auto;Fóvea:
 dt;cuello_edema_auto;Horario:
 t;cuello_edema_auto;Color:
 t;cuello_edema_auto;Temperatura:
+s;cuello_auto;Sensibilidad;[(1,'Normal'),(2,'Tacto'),(3,'Dolor'),(4,'Temperatura'),(5,'Barestesia'),(6,'Barognosia'),(7,'Palestesia'),(9,'Batiestesia')]
+t;cuello_auto;Sensibilidad Observaciones:
+
