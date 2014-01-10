@@ -24,11 +24,17 @@ class Campos extends General{
 			$tabla = $dato[ 3 ];
 			$relacion = $dato[ 4 ];
 
-
 			$dato[ 2 ] = $tabla;
 			$dato[ 3 ] = $relacion;
 			$dato[ 4 ] = $descripcion;
 			
+		}
+		if( $dato[ 0 ] == 'm2o' ){
+			$descripcion = $dato[ 2 ];
+			$tabla = $dato[ 3 ];
+
+			$dato[ 2 ] = $tabla;
+			$dato[ 3 ] = $descripcion;
 		}
 
 

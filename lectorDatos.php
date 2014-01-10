@@ -6,7 +6,9 @@ while(!feof($file)){
 	$linea = fgets($file);
 	$linea = substr( $linea, 0, strlen( $linea ) - 2 );
 
-	var_dump( $linea );
+	if( $linea == '' ){
+		continue;
+	}
 
 	$interpretacion = $Interprete->interpretar_linea( $linea );
 	$Campos->de_templates_a_field( $interpretacion );

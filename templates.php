@@ -12,6 +12,7 @@ $tmpl_campos['f'] = "'%s' : fields.float('%s', digits=%s),";
 $tmpl_campos['c'] = "'%s' : fields.char('%s'),";
 $tmpl_campos['t'] = "'%s' : fields.text('%s'),";
 $tmpl_campos['o2m'] = "'%s' : fields.one2many('%s', '%s', '%s'),";
+$tmpl_campos['m2o'] = "'%s' : fields.many2one('%s', '%s'),";
 $tmpl_campos['fu'] = "'%s' : fields.function('%s', relation = '%s', type = '%s', store = '%s', method = True, string = '%s'),";
 
 // Templates Views
