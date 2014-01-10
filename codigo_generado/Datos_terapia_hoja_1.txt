@@ -1,0 +1,42 @@
+d;auto;Fecha Atencion
+m2o;auto;Medico Tratante;delphos.terceros.medico
+m2o;auto;Motivo Consulta;delphos.diagnosticos_tipodiagnostico
+t;auto;Motivo Consulta Observaciones
+t;auto;Patológicos:
+t;auto;Farmacológicos
+t;auto;Toxicoalergicos
+t;auto;Familiares
+t;auto;Ginecoobtetricos
+t;auto;Antecedentes Familiares Otros
+t;auto;Hospitalizaciones:
+t;auto;Patológicos:
+s;auto;Tipo de Intervencion;[(1, 'Evaluacion Inicial'), (2, 'Evaluacion Final'), (3, 'Sesion de Terapia')]
+s;auto;Fuerza Muscular Facial;[(1, 'Movimiento Simétrico 100%'), (2, '3/4 Partes del Movimiento 75% '), (3, '1/2 Partes del Movimiento 50%'), (4, '1/4 Partes del Movimiento 25%')]
+t;auto;Fuerza Muscular Facial Observaciones:
+s;auto;Sensibilidad;[(1, 'Normal'), (2, 'Tacto'), (3, 'Dolor'), (4, 'Temperatura'), (5, 'Barestesia'),(6, 'Barognosia'),(7, 'Palestesia'),(8, 'Batiestesia')]
+t;auto;Sensibilidad Observaciones:
+s;auto;AMA ATM;[(1, 'Normal'), (2, 'Limitación Leve'), (3, 'Limitación Moderada'), (4, 'Limitación Severa')]
+t;auto;AMA ATM Observaciones:
+s;auto;Dolor;[(1, 'Sin Dolor'), (2, '1/10'), (3, '2/10'), (4, '3/10'), (5, '4/10'),(6, '5/10'),(7, '6/10'),(8, '7/10'),(9, '8/10'),(10, '9/10'), (11, '10/10')]
+t;auto;Dolor Observaciones:
+s;auto;Edema;[(1, 'Sin Edema'), (2, 'G 1 Leve (1cm)'), (3, 'G 2 Moderado (2cm)'), (4, 'G 3 Intenso (3cm)'), (5, 'G 4 Severo (4cm o mas)')]
+t;auto;Edema Observaciones:
+
+b;auto;Electro Terapia
+b;auto;Medios Físicos
+b;auto;Movilidad de ATM
+b;auto;Estiramiento ATM
+b;auto;Masaje Sedativo
+b;auto;Electrodiagnóstico
+b;auto;Técnica ROOD
+b;auto;Crioestimulación
+b;auto;Gesticulación con Espejo
+b;auto;Ejercicios Activos Mandíbula
+b;auto;Ejercicios Activos Músculos Cara
+b;auto;Reeducación de Tareas de vida diaria
+b;auto;Medios Físicos (frio)
+b;mensaje_perons;Masaje Sedativo
+dt;auto;Fecha Terapia y hora militar
+
+
+b;auto;Ejercicios Isométricos

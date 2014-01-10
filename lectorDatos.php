@@ -1,5 +1,5 @@
 <?php
-$file = fopen("Datos.txt", "r") or exit("Unable to open file!");
+$file = fopen("codigo_generado/Datos_". $trabajar_en .".txt", "r") or exit("Unable to open file!");
 
 while(!feof($file)){
 

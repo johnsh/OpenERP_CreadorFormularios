@@ -1,10 +1,12 @@
 <?php
+require_once('Config.php');
 require_once('templates.php');
 require_once('General.php');
 require_once('Campos.php');
 require_once('Vista.php');
 require_once('Interprete.php');
 require_once('Archivo.php');
+
 
 // Instancias.
 $Campos = new Campos();
@@ -17,15 +19,12 @@ $Interprete = new Interprete();
 
 require_once('lectorDatos.php');
 
-
-//$Campos->mostrar_campos_leidos();
-
-//$Vista->mostrar_campos_leidos();
-
 $Archivo = new Archivo();
 
-$Archivo->escribir_en_archivo( $Campos->mostrar_campos_leidos(), 'py.txt' );
+$Archivo->escribir_en_archivo( $Campos->mostrar_campos_leidos(), 'codigo_generado/py_' . $trabajar_en .  '.txt' );
 
-$Archivo->escribir_en_archivo( $Vista->mostrar_campos_leidos(), 'view.txt' );
+$Archivo->escribir_en_archivo( $Vista->mostrar_campos_leidos(), 'codigo_generado/view_'. $trabajar_en .'.txt' );
+
+echo 'Generado en ... :' . $trabajar_en . 'txt';
 ?>
 
