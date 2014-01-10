@@ -1,3 +1,9 @@
 <field name="prueba_boolean" col="1"/>
-<field name="prueba_de_boolean" col="1"/>
+<field name="otro_boolean" col="1"/>
 <field name="imc" col="1"/>
+<field name="frecuencia_cardiaca" col="1"/>
+<field name="frecuencia_cardiaca" col="1"/>
+<field name="motivo_de_consulta" col="1"/>
+<field name="enfermedad_actual" col="1"/>
+<field name="nueva_cosa" col="1"/>
+<field name="diagnosticos" col="1"/>

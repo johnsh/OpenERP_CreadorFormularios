@@ -6,20 +6,39 @@ class Campos extends General{
 
 
 	function de_templates_a_field( $dato ){
-		// Se extraen las variables
-		list( $tipo_campo, $nombre_campo, $descripcion ) = $dato;
-
+		// Se identifica la cadena automatica
+		$dato[1] = ( $dato[1] == 'auto' ? $this->auto(  $dato[2] ) : $dato[1] );
 		// Se identifica el template.
-		$tmpl = $this->templates_campos[ $tipo_campo ];
+		$tmpl = $this->templates_campos[ $dato[ 0 ] ];
 
-		$nombre_campo_descripcion = ( $nombre_campo == 'auto' ? $this->auto(  $descripcion ) : $nombre_campo );
+		if( $dato[0] == 's' ) {
+			$descripcion = $dato[ 2 ];
+			$opciones = $dato[ 3 ];
 
-		if( $tipo_campo == 'b' ){
-			$this->campos_leidos[] = sprintf( $tmpl, $nombre_campo_descripcion,  $descripcion );	
-		} else if( $tipo_campo == 'i' ){
-			$this->campos_leidos[] = sprintf( $tmpl, $nombre_campo_descripcion,  $descripcion );	
+			$dato[ 2 ] = $opciones;
+			$dato[ 3 ] = $descripcion;
+			
 		}
-		
+		if( $dato[0] == 'o2m' ) {
+			$descripcion = $dato[ 2 ];
+			$tabla = $dato[ 3 ];
+			$relacion = $dato[ 4 ];
+
+
+			$dato[ 2 ] = $tabla;
+			$dato[ 3 ] = $relacion;
+			$dato[ 4 ] = $descripcion;
+			
+		}
+
+
+		// Extraemos el primer elemento del array, referente al tipo de dato
+		array_shift( $dato );
+
+
+
+		$this->campos_leidos[] = vsprintf( $tmpl, $dato );	
+	
 
 	}
 

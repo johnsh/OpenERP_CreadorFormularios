@@ -1,3 +1,9 @@
-b,prueba_boolean,Prueba de boolean
-b,auto,Prueba de boolean
-i,imc,Prueba de campo Integer
+b;prueba_boolean;Prueba de boolean
+b;auto;Otro boolean
+i;imc;Prueba de campo Integer
+i;auto;Frecuencia cardiaca
+dt;auto;Frecuencia cardiaca
+t;auto;Motivo de consulta
+t;auto;Enfermedad Actual
+s;nueva_cosa;Antecedentes;[(1, 'Primer valor'), (2, 'Segundo Valor')]
+o2m;auto;Diagnosticos;tabla;campo_relacion
