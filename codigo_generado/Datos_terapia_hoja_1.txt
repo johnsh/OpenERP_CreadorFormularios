@@ -66,4 +66,18 @@ t;cuello_edema_auto;Color:
 t;cuello_edema_auto;Temperatura:
 s;cuello_auto;Sensibilidad;[(1,'Normal'),(2,'Tacto'),(3,'Dolor'),(4,'Temperatura'),(5,'Barestesia'),(6,'Barognosia'),(7,'Palestesia'),(9,'Batiestesia')]
 t;cuello_auto;Sensibilidad Observaciones:
-
+b;cuello_auto;Electro Terapia
+b;cuello_auto;Medios Fisicos
+b;cuello_movilidad_columna;Movilidad de Columna
+b;cuello_auto;Estiramiento Columna
+b;cuello_auto;Masaje Sedativo
+b;cuello_auto;Tracción Cervical
+b;cuello_auto;estiramiento Activos Resistidos
+b;cuello_auto;Estiramientos Pasivos
+b;cuello_auto;Ejercicios Isometricos
+b;cuello_auto;Ejercicios Activos Libre
+b;cuello_auto;Ejercicios Activos Músculos Cara
+b;cuello_reeducacion_tareas_vida_diaria;Reeducación de Tareas de vida diaria
+b;cuell0_auto;Medios Fisicos (frio)
+b;cuello_auto;Masaje Sedativo
+dt;cuello_fecha_terapia_hora_militar;Fecha Terapia y hora militar
