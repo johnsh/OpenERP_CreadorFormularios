@@ -22,6 +22,7 @@ t;auto;Dolor Observaciones:
 s;auto;Edema;[(1, 'Sin Edema'), (2, 'G 1 Leve (1cm)'), (3, 'G 2 Moderado (2cm)'), (4, 'G 3 Intenso (3cm)'), (5, 'G 4 Severo (4cm o mas)')]
 t;auto;Edema Observaciones:
 
+
 b;auto;Electro Terapia
 b;auto;Medios Físicos
 b;auto;Movilidad de ATM
@@ -40,3 +41,25 @@ dt;auto;Fecha Terapia y hora militar
 
 
 b;auto;Ejercicios Isométricos
+s;cuello_fuerza_muscular;Fuerza Muscular;[(1,'5'),(2,'4+'),(3,'4'),(5,'3+'),(6,'3'),(7,'2+'),(8,'2'),(9,'1'),(10,'1+'),(11,'0')]
+t;cuello_fuerza_muscular_observaciones;Fuerza Muscular Observaciones:
+s;cuello_trofismo_muscular;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
+t;cuello_trofismo_muscular_observaciones;Trofismo Muscular Observaciones:
+s;cuello_flexion;Flexión;[(1,'Normal'),(2,'0'),(3,'35°'),(4,'45°')]
+t;cuello_flexion_observaciones; Flexión Observaciones:
+s;cuello_extension;Extensión;[(1,'Normla'),(2,'0'),(3,'35°'),(4,'45°')]
+t;cuello_extension_observaciones;Extensión Observaciones:
+s;cuello_rotacion;Rotación;[(1,'Normal'),(2,'0°'),(3,'60°'),(4,'80°')]
+t;cuello_rotacion_observaciones;Rotación Observaciones: 
+s;cuello_inclinacion;Inclinación;[(1,'Normal'),(2,'0°'),(3,'45°')]
+t;cuello_inclinacion_observaciones;Inclinación Observaciones:
+s;cuello_elasticidad_muscular;Elasticidad Muscular;[(1,'Normal'),(2,'Leve'),(3,'Moderada'),(4,'Severa')]
+t;cuello_elasticidad_muscular_observaciones;Elasticidad Muscular Observaciones:
+s;cuello_dolor;Dolor;[(1,'Sin dolor|'),(2,'1/10'),(3,'2/10'),(4,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
+t;cuello_dolor_observaciones; Dolor Observaciones:
+s;cuello_auto;Edema;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)),(5,'G 4 Severo (4cm o mas)')]
+t;cuello_edema_auto;Localización:
+t;cuello_edema_auto;Fóvea:
+dt;cuello_edema_auto;Horario:
+t;cuello_edema_auto;Color:
+t;cuello_edema_auto;Temperatura:
