@@ -78,6 +78,6 @@ b;cuello_auto;Ejercicios Isometricos
 b;cuello_auto;Ejercicios Activos Libre
 b;cuello_auto;Ejercicios Activos Músculos Cara
 b;cuello_reeducacion_tareas_vida_diaria;Reeducación de Tareas de vida diaria
-b;cuell0_auto;Medios Fisicos (frio)
+b;cuello_auto;Medios Fisicos (frio)
 b;cuello_auto;Masaje Sedativo
 dt;cuello_fecha_terapia_hora_militar;Fecha Terapia y hora militar

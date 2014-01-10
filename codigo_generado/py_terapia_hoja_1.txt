@@ -74,6 +74,6 @@
 'cuello_ejercicios_activos_libre' : fields.boolean('Ejercicios Activos Libre'),
 'cuello_ejercicios_activos_musculos_cara' : fields.boolean('Ejercicios Activos Músculos Cara'),
 'cuello_reeducacion_tareas_vida_diaria' : fields.boolean('Reeducación de Tareas de vida diaria'),
-'cuell0_medios_fisicos_frio' : fields.boolean('Medios Fisicos (frio)'),
+'cuello_medios_fisicos_frio' : fields.boolean('Medios Fisicos (frio)'),
 'cuello_masaje_sedativo' : fields.boolean('Masaje Sedativo'),
 'cuello_fecha_terapia_hora_militar' : fields.datetime('Fecha Terapia y hora militar'),

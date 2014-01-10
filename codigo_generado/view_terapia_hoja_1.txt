@@ -74,6 +74,6 @@
 <field name="cuello_ejercicios_activos_libre" col="1"/>
 <field name="cuello_ejercicios_activos_musculos_cara" col="1"/>
 <field name="cuello_reeducacion_tareas_vida_diaria" col="1"/>
-<field name="cuell0_medios_fisicos_frio" col="1"/>
+<field name="cuello_medios_fisicos_frio" col="1"/>
 <field name="cuello_masaje_sedativo" col="1"/>
 <field name="cuello_fecha_terapia_hora_militar" col="1"/>
