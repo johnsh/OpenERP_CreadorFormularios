@@ -1,4 +1,4 @@
-OpenERP_CreadorFormularios
+OpenERP CreadorFormularios
 ==========================
 
 OpenERP - Permite crear formularios rapidamente.
