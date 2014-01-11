@@ -23,13 +23,12 @@ m2o (Many2one)
 
 Ejemplo de definicion de datos
 
-'prueba_boolean' : fields.boolean('Prueba de boolean'),
-'otro_boolean' : fields.boolean('Otro boolean'),
-'imc' : fields.integer('Prueba de campo Integer'),
-'frecuencia_cardiaca' : fields.integer('Frecuencia cardiaca'),
-'frecuencia_cardiaca' : fields.datetime('Frecuencia cardiaca'),
-'motivo_de_consulta' : fields.text('Motivo de consulta'),
-'enfermedad_actual' : fields.text('Enfermedad Actual'),
-'nueva_cosa' : fields.selection([(1, 'Primer valor'), (2, 'Segundo Valor')], 'Antecedentes'),
-'diagnosticos' : fields.one2many('tabla', 'campo_relaci', 'Diagnosticos'),
+b;auto;Electro Terapia
 
+dt;auto;Fecha Terapia y hora
+
+s;cuello_fuerza_muscular;Fuerza Muscular;[(1,'5'),(2,'4+'),(3,'4'),(5,'3+'),(6,'3'),(7,'2+'),(8,'2'),(9,'1'),(10,'1+'),(11,'0')]
+
+t;auto;Edema Observaciones:
+
+m2o;auto;Medico Tratante;delphos.terceros.medico
