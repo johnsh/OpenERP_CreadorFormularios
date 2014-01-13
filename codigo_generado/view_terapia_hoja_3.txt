@@ -1,0 +1,2 @@
+<field name="cadera_fuerza_muscular" col="1"/>
+<field name="cadera_fuerza_muscular_observacione" col="1"/>
