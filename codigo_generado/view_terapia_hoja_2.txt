@@ -218,3 +218,15 @@
 <field name="lumbar_rotacion_observaciones" col="1"/>
 <field name="lumbar_inclinacion" col="1"/>
 <field name="lumbar_inclinacion_observaciones" col="1"/>
+<field name="lumbar_elasticidad_muscular" col="1"/>
+<field name="lumbar_elasticidad_muscular_observaciones" col="1"/>
+<field name="lumbar_dolor" col="1"/>
+<field name="lumbar_dolor_observaciones" col="1"/>
+<field name="lumbar_edema" col="1"/>
+<field name="lumbar_edema_localizacion" col="1"/>
+<field name="lumbar_edema_fovea" col="1"/>
+<field name="lumbar_edema_horario" col="1"/>
+<field name="lumbar_edema_color" col="1"/>
+<field name="lumbar_edema_temperatura" col="1"/>
+<field name="lumbar_sensibilidd" col="1"/>
+<field name="lumbar_sensibilidad_observaciones" col="1"/>

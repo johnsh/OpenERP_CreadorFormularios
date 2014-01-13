@@ -221,4 +221,15 @@ s;lumbar_auto;Rotación;[(1,'Normal'),(2,'Anormal')]
 t;lumbar_auto;Rotación Observaciones:
 s;lumbar_auto;Inclinacion;[(1,'Normal'),(2,'Anormal')]
 t;lumbar_auto;Inclinación Observaciones:
-
+s;lumbar_auto;Elasticidad Muscular;[(1,'Normal'),(2,'Leve'),(3,'Moderada'),(4,'Severa')]
+t;lumbar_auto;Elasticidad Muscular Observaciones:
+s;lumbar_auto;Dolor;[(1,'Sin Dolor'),(2,'1/10'),(3,'2/10'),(4,,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
+t;lumbar_auto;Dolor Observaciones:
+s;lumbar_auto;Edema;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)'),(5,'G 4 Severo (4cm o mas)')]
+t;lumbar_edema_auto;Localización:
+t;lumbar_edema_auto;Fóvea:
+dt;lumbar_edema_auto;Horario:
+t;lumbar_edema_auto;Color:
+t;lumbar_edema_auto;Temperatura:
+s;lumbar_auto;Sensibilidd;[(1,'Normal'),(2,'Tacto'),(3,'Dolor'),(4,'Temperatura'),(5,'Barestesia'),(6,'Barognosia'),(7,'Palestesia'),(8,'Batiestesia')]
+t;lumbar_auto;Sensibilidad Observaciones:
