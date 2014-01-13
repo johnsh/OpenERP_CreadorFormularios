@@ -49,6 +49,7 @@ b;muneca_auto;Medios Fisicos
 b;muneca_auto;Masaje Sedativo
 b;muneca_auto;Movilidad Articular libre
 b;muneca_auto;Estiramiento
-dt;muneca_fecha_terapia_hora_militar;Fecha Terapia y hora militar
+dt;muneca_auto;Fecha Terapia
+
 
 

@@ -81,4 +81,4 @@ b;cuello_auto;Ejercicios Activos Músculos Cara
 b;cuello_reeducacion_tareas_vida_diaria;Reeducación de Tareas de vida diaria
 b;cuello_auto;Medios Fisicos (frio)
 b;cuello_auto;Masaje Sedativo
-dt;cuello_auto;Fecha Terapia y hora
+dt;cuello_auto;Fecha Terapia
