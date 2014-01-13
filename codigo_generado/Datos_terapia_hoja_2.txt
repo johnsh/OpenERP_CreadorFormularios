@@ -255,3 +255,18 @@ b;lumbar_tecnica_mc_kenzie;Tecnicas de MC KENZEI
 t;lumbar_tecnica_mc_kenzie_observacion;Tecnicas de MC KENZEI:
 b;lumbar_tecnica_golthwait;Tecnica de GOLTHWAIT
 t;lumbar_tecnica_golthwait_observacion;Tecnica de GOLTHWAIT:
+b;lumbar_tecnica_williams;Tecnica de WILLIAMS
+t;lumbar_tecnica_williams_observacion;Tecnica de WILLIAMS:
+b;lumbar_tecnica_klapp;Tecnica de KLAPP
+t;lumbar_tecnica_klapp_observacion;Tecnica de KLAPP:
+b;lumbar_auto;Estiramientos Activos
+t;lumbar_auto_observacion;Estiramientos Activos:
+b;lumbar_auto;Estiramientos Pasivos
+t;Lumbar_auto_observacion;Estiramientos Pasivos:
+b;lumbar_auto;Medios Físicos
+t;lumbar_auto_observacion;Medios Físicos:
+b;lumbar_auto;Masaje Sedatvo
+t;lumbar_auto_observacion;Masaje Sedativo:
+b;lumbar_auto;Estiramiento
+t;lumbar_auto_observacion;Estiramiento:
+dt;lumbar_auto;Fecha Terapia
