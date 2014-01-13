@@ -184,7 +184,36 @@ b;mano_auto;Masaje Sedativo
 t;mano_auto_observacion;Masaje sedativo:
 b;mano_auto;Puntual (Electrodiagnóstico)
 t;mano_auto_observacion;Puntual (Electrodiagnóstico)
-
-
+b;mano_auto;Ejercicios Isométricos
+t;mano_auto_observacion;Ejercicios Isométricos:
+b;mano_auto;Ejercicios Activos Libres
+t;mano_auto_observacion;Ejercicios Activos Libres:
+b;mano_auto;Ejercicios Asistidos
+t;mano_auto_observacion;Ejercicios Asistidos:
+b;mano_auto;Ejercicios Activos Resistidos
+t;mano_auto_observacion;Ejercicios Activos Resistidos:
+b;mano_auto;Ejercicios Pasivos
+t;mano_auto_observacion;Ejercicios Pasivos:
+b;mano_activos_pasivos;Ejercicios Activos y Pasivos
+t;mano_activos_pasivos_observacion;Ejercicios Activos y Pasivos:
+b;mano_auto;Propiosesión
+t;mano_auto_observacion;Propiosesión:
+b;mano_auto;Motricidad Fina
+t;mano_auto_observacion;Motricidad Fina:
+b;mano_auto;Agarres
+t;mano_auto_observacion;Agarres:
+b;mano_oposicion_pulgar;Oposición del Pulgar
+t;mano_oposicion_pulgar_observacion;Oposición del Pulgar:
+b;mano_auto;Motricidad Gruesa
+t;mano_auto_observacion;Motricidad Gruesa Observacion
+b;mano_auto;Medios Físicos
+t;mano_auto_observacion;Medios Físicos:
+b;mano_auto;Masaje Sedativo
+t;mano_auto_observacion;Masaje Sedativo;
+b;mano_auto;Movilidad Articular Libre
+t;mano_auto_observacion;Movilidad Articular Libre:
+b;mano_auto;Estiramientos
+t;mano_auto_observaciones;Estiramientos:
+dt;mano_auto;Fecha Terapia
 
 
