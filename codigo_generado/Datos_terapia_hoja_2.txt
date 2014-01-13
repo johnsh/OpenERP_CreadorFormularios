@@ -1,1 +1,54 @@
-s;auto;Fuerza Muscular;[(1, 'Sin Edema'), (2, 'G 1 Leve (1cm)'), (3, 'G 2 Moderado (2cm)'), (4, 'G 3 Intenso (3cm)'), (5, 'G 4 Severo (4cm o mas)')]
+s;muneca_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
+t;muneca_auto;Fuerza Muscular Observaciones:
+s;muneca_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
+t;muneca_auto;Trofismo Muscular Observaciones:
+s;muneca_auto;Trofismo Muscular Opciones;[(1,'General'),(2,'Especifico')]
+
+s;muneca_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;muneca_auto;Flexión Observaciones:
+s;muneca_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;muneca_auto;Extensión Observaciones:
+s;muneca_auto;Desviación Radial;[(1,'Normal'),(2,'Anormal')]
+t;muneca_auto;Desviación Radial Observaiones:
+s;muneca_auto;Desviación Unlar;[(1,'Normal'),(2,'Anormal')]
+t;muneca_auto;Desviación Unlar Observaciones:
+s;muneca_auto;Elasticidad Muscular;[(1,'Normal'),(2,'Leve'),(3,'Moderada'),(4,'Severa')]
+t;muneca_auto;Elasticidad Muscular Observaciones:
+s;muneca_auto;Dolor;[(1,'Sin Dolor'),(2,'1/10'),(3,'2/10'),(4,,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
+t;muneca_auto;Dolor Observaciones:
+s;muneca_auto;Edena;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)'),(5,'G 4 Severo (4cm o mas)')]
+t;muneca_edema_auto;Localización:
+t;muneca_edema_auto;Fóvea:
+dt;muneca_edema_auto;Horario:
+t;muneca_edema_auto;Color:
+t;muneca_edema_auto;Temperatura:
+s;muneca_auto;Sensibilidad;[(1,'Normal'),(2,'Tacto'),(3,'Dolor'),(4,'Temperatura'),(5,'Barestesia'),(6,'Barognosia'),(7,'Palestesia'),(8,'Batiestesia')]
+t;muneca_auto;Sensibilidad Observaciones:
+t;muneca_auto;Resumen Observaciones:
+
+b;muneca_auto;Electro Terapia
+b;muneca_auto;Medios Fisicos
+b;muneca_auto;Movilidad Articular
+b;muneca_auto;Estiramiento
+b;muneca_auto;Masaje Sedativo
+b;muneca_auto;Puntual (Electrodiagnóstico)
+
+b;muneca_auto;Ejercicios Isométricos
+b;muneca_auto;Ejercicios Activos Libres 
+b;muneca_auto;Ejercicios Asistidos
+b;muneca_auto;Ejercicios Activos Resistidos
+b;muneca_auto;Ejercicios Pasivos
+b;muneca_estiramientos_activos_pasivos;Estiramientos Activos y Pasivos
+b;muneca_auto;Propiosepción
+b;muneca_auto;Moricidad Fina
+b;muneca_auto;Agarre
+b;muneca_oposicion_pulgar;Oposición del Pulgar
+b;muneca_auto;Motricidad Gruesa
+
+b;muneca_auto;Medios Fisicos
+b;muneca_auto;Masaje Sedativo
+b;muneca_auto;Movilidad Articular libre
+b;muneca_auto;Estiramiento
+dt;muneca_fecha_terapia_hora_militar;Fecha Terapia y hora militar
+
+
