@@ -205,3 +205,16 @@
 <field name="mano_estiramientos" col="1"/>
 <field name="mano_estiramientos_observaciones" col="1"/>
 <field name="mano_fecha_terapia" col="1"/>
+<field name="lumbar_fuerza_muscular" col="1"/>
+<field name="lumbar_fuerza_muscular_observaciones" col="1"/>
+<field name="lumbar_trofismo_muscular" col="1"/>
+<field name="lumbar_trofismo_muscular_observaciones" col="1"/>
+<field name="lumbar_trofismo_muscular_opciones" col="1"/>
+<field name="lumbar_flexion" col="1"/>
+<field name="lumbar_flexion_observaciones" col="1"/>
+<field name="lumbar_extension" col="1"/>
+<field name="lumbar_extension_observaciones" col="1"/>
+<field name="lumbar_rotacion" col="1"/>
+<field name="lumbar_rotacion_observaciones" col="1"/>
+<field name="lumbar_inclinacion" col="1"/>
+<field name="lumbar_inclinacion_observaciones" col="1"/>
