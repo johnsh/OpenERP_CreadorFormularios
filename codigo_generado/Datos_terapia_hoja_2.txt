@@ -233,3 +233,25 @@ t;lumbar_edema_auto;Color:
 t;lumbar_edema_auto;Temperatura:
 s;lumbar_auto;Sensibilidd;[(1,'Normal'),(2,'Tacto'),(3,'Dolor'),(4,'Temperatura'),(5,'Barestesia'),(6,'Barognosia'),(7,'Palestesia'),(8,'Batiestesia')]
 t;lumbar_auto;Sensibilidad Observaciones:
+b;lumbar_auto;Electro Terapia
+t;lumbar_auto_observacion;Electro Terapia:
+b;lumbar_auto;Medios Físicos
+t;lumbar_auto_observacion;Medios Físicos:
+b;lumbar_auto;Movilidad Articular
+t;lumbar_auto_observacion;Movilidad Articular:
+b;lumbar_auto;Estiramiento
+t;lumbar_auto_observacion;Estiramiento:
+b;lumbar_auto;Masaje Sedativo
+t;lumbar_auto_observacion;Masaje Sedativo:
+b;lumbar_auto;Traccion Lumbar
+t;lumbar_auto_observacion;Traccion Lumbar:
+b;lumbar_tecnica_kabat;Tecnica de KABAT
+t;lumbar_tecnica_kabat_observacion;Tecnica de KABAT:
+b;lumbar_tecnica_bobath;Tecnica de BOBATH
+t;lumbar_tecnica_bobath;Tecnica de 	BOBATH:
+b;lumbar_tenica_pilates;Tecnica de PILATES
+t;lumbar_tenica_pilates_observacion;Tecnica de PILATES:
+b;lumbar_tecnica_mc_kenzie;Tecnicas de MC KENZEI
+t;lumbar_tecnica_mc_kenzie_observacion;Tecnicas de MC KENZEI:
+b;lumbar_tecnica_golthwait;Tecnica de GOLTHWAIT
+t;lumbar_tecnica_golthwait_observacion;Tecnica de GOLTHWAIT:
