@@ -113,6 +113,23 @@ b;dorlum_auto;Tracción Lumbar
 t;dorlum_auto_observacion;Tracción Lumbar
 
 b;dorlum_tecnica_kabat;Tecnica de KABAT
+t;dorlum_tecnica_kabat_observacion;Tecnica de KABAT:
+b;dorlum _tecnica_bobath;;Tecnica de BOBATH
+t;dorlum_tecnica_bobath_observacion;Tecnica de BOBATH:
+b;dorlum_tecnica_pilates;Tecnica de Pilates
+t;dorlum_tecnica_pilates_observaciones;Tecnica de Pilates:
+b;dorlum_tecnica_mc_kenzie;Tecnica de MC KENZIE
+t;dorlum_tecnica_mc_kenzie_observacion;Tecnica de MC KENZIE:
+b;dorlum_tecnica_golthwait;Tecnica de GOLTHWAIT
+t;dorlum_tecnica_golthwait_observacion;Tecnica de GOLTHWAIT:
+b;dorlum_tecnica_williams;Tecnica de WILLIAMS
+t;dorlum_tecnica_williams_observacion;Tecnica de WILLIAMS:
+b;dorlum_tecnica_klapp;Tecnica de KLAPP
+t;dorlum_tecnica_klapp_observacion;Tecnica de KLAPP:
+b;dorlum_auto;Estiramientos Activos
+t;dorlum_auto_observacion;Estiramientos Activos:
+b;dorlum_auto;Estiramientos Pasivos
+t;dorlum_auto_observacion;Estiramientos Pasivos:
 
 
 

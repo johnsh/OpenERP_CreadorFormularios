@@ -104,3 +104,20 @@
 <field name="dorlum_traccion_lumbar" col="1"/>
 <field name="dorlum_traccion_lumbar_observacion" col="1"/>
 <field name="dorlum_tecnica_kabat" col="1"/>
+<field name="dorlum_tecnica_kabat_observacion" col="1"/>
+<field name="dorlum _tecnica_bobath" col="1"/>
+<field name="dorlum_tecnica_bobath_observacion" col="1"/>
+<field name="dorlum_tecnica_pilates" col="1"/>
+<field name="dorlum_tecnica_pilates_observaciones" col="1"/>
+<field name="dorlum_tecnica_mc_kenzie" col="1"/>
+<field name="dorlum_tecnica_mc_kenzie_observacion" col="1"/>
+<field name="dorlum_tecnica_golthwait" col="1"/>
+<field name="dorlum_tecnica_golthwait_observacion" col="1"/>
+<field name="dorlum_tecnica_williams" col="1"/>
+<field name="dorlum_tecnica_williams_observacion" col="1"/>
+<field name="dorlum_tecnica_klapp" col="1"/>
+<field name="dorlum_tecnica_klapp_observacion" col="1"/>
+<field name="dorlum_estiramientos_activos" col="1"/>
+<field name="dorlum_estiramientos_activos_observacion" col="1"/>
+<field name="dorlum_estiramientos_pasivos" col="1"/>
+<field name="dorlum_estiramientos_pasivos_observacion" col="1"/>
