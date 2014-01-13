@@ -2,7 +2,7 @@ s;muneca_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'
 t;muneca_auto;Fuerza Muscular Observaciones:
 s;muneca_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
 t;muneca_auto;Trofismo Muscular Observaciones:
-s;muneca_auto;Trofismo Muscular Opciones;[(1,'General'),(2,'Especifico')]
+s;muneca_auto;Trofismo Muscular Opciones;[(1,'General'),(2,'Especifica')]
 
 s;muneca_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
 t;muneca_auto;Flexión Observaciones:
@@ -27,29 +27,92 @@ t;muneca_auto;Sensibilidad Observaciones:
 t;muneca_auto;Resumen Observaciones:
 
 b;muneca_auto;Electro Terapia
+t;muneca_auto_observacion;Electro Terapia:
 b;muneca_auto;Medios Fisicos
+t;muneca_auto_observacion;Medios Fisicos:
 b;muneca_auto;Movilidad Articular
+t;muneca_auto_observacion;Movilidad Articular:
 b;muneca_auto;Estiramiento
+t;muneca_auto_observacion;Estiramiento:
 b;muneca_auto;Masaje Sedativo
+t;muneca_auto_observacion;Masaje Sedativo:
 b;muneca_auto;Puntual (Electrodiagnóstico)
-
+t;muneca_auto_observacion;Puntual (Electrodiagnóstico):
 b;muneca_auto;Ejercicios Isométricos
+t;muneca_auto_observacion;Ejercicios Isométricos:
 b;muneca_auto;Ejercicios Activos Libres 
+t;muneca_auto_observacion;Ejercicios Activos Libres:
 b;muneca_auto;Ejercicios Asistidos
+t;muneca_auto_observacion;Ejercicios Asistidos:
 b;muneca_auto;Ejercicios Activos Resistidos
+t;muneca_auto_observacion;Ejercicios Activos Resistidos:
 b;muneca_auto;Ejercicios Pasivos
+t;muneca_auto_observacion;Ejercicios Pasivos:
 b;muneca_estiramientos_activos_pasivos;Estiramientos Activos y Pasivos
+t;muneca_auto_observacion;estiramientos_activos_pasivos:
 b;muneca_auto;Propiosepción
+t;muneca_auto_observacion;Propiosepción:
 b;muneca_auto;Moricidad Fina
+t;muneca_auto_observacion;Moricidad Fina:
 b;muneca_auto;Agarre
+t;muneca_auto_observacion;Agarre:
 b;muneca_oposicion_pulgar;Oposición del Pulgar
+t;muneca_auto_observacion;Oposición del Pulgar:
 b;muneca_auto;Motricidad Gruesa
+t;muneca_auto_observacion;Motricidad Gruesa:
 
 b;muneca_auto;Medios Fisicos
+t;muneca_auto_observacion;Medios Fisicos:
 b;muneca_auto;Masaje Sedativo
+t;muneca_auto_observacion;Masaje Sedativo:
 b;muneca_auto;Movilidad Articular libre
+t;muneca_auto_observacion;Movilidad Articular libre
 b;muneca_auto;Estiramiento
+t;muneca_auto_observacion;Estiramiento
 dt;muneca_auto;Fecha Terapia
+
+s;dorlum_auto;Fuerza Muscular;(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
+t;dorlum_auto;Fuerza Muscular Observaciones:
+s;dorlum_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
+t;dorlum_auto;:Trofismo Muscular Observaciones:
+s;dorlum_auto;Trofismo Muscular Opciones;[(1,'General'),(2,'Especifica')]
+
+s;dorlum_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;dorlum_auto;Flexión Observaciones:
+s;dorlum_auto;Rotación;[(1,'Normal'),(2,'Anormal')]
+t;dorlum_auto;Rotación Observaciones:
+s;dorlum_auto;inclinacón;[(1,'Normal'),(2,'Anormal')]
+t;dorlum_auto;Inclinación Observaciones:
+
+s;dorlum_auto;Elasticidad Muscular;[(1,'Normal'),(2,'Leve'),(3,'Moderada'),(4,'Severa')]
+t;dorlum_auto;Elasticidad Muscular Observaciones:
+s;dorlum_auto;Dolor;[(1,'Sin Dolor'),(2,'1/10'),(3,'2/10'),(4,,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
+t;dorlum_auto;Dolor Observaciones:
+s;dorlum_auto;Edema;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)'),(5,'G 4 Severo (4cm o mas)')]
+t;dorlum_edema_auto;Localización:
+t;dorlum_edema_auto;Fóvea:
+dt;dorlum_edema_auto;Horario:
+t;dorlum_edema_auto;Color:
+t;dorlum_edema_auto;Temperatura:
+s;dorlum_auto;Sensibilidad;[(1,'Normal'),(2,'Tacto'),(3,'Dolor'),(4,'Temperatura'),(5,'Barestesia'),(6,'Barognosia'),(7,'Palestesia'),(8,'Batiestesia')]
+t;dorlum_auto;Sensibilidad Observaciones:
+
+t;dorlum_auto;Resumen Observaciones:
+
+b;dorlum_auto;Electro Terapia
+t;dorlum_auto_observacion;Electro Terapia:
+b;dorlum_auto;Medios Fisicos
+t;dorlum_auto_observaciones;Medios Fisicos:
+b;dorlum_auto;Movilidad Articular
+t;dorlum_auto_observacion;Movilidad Articular:
+b;dorlum_auto;Estiramiento
+t;dorlum_auto_observacion;Estiramiento:
+b;dorlum_auto;Masaje Sedativo
+t;dorlum_auto_observacion;Masaje Sedativo
+b;dorlum_auto;Tracción Lumbar
+t;dorlum_auto_observacion;Tracción Lumbar
+
+b;dorlum_tecnica_kabat;Tecnica de KABAT
 
 
 
