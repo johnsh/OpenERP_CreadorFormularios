@@ -151,6 +151,18 @@ s;mano_metacarpofalangica_auto;Abducción;[(1,'Normal'),(2,'Anormal')]
 t;mano_metacarpofalangica_auto;abducción Observaciones:
 s;mano_metacarpofalangica_auto;Aducción;[(1,'Normal'),(2,'Anormal')]
 t;mano_metacarpofalangica_auto;Aducción Observaciones:
+s;mano_interfalangicas_proximales_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;mano_interfalangicas_proximales_auto;Flexión Observaciones:
+s;mano_interfalangicas_proximales_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;mano_interfalangicas_proximales_auto;Extensión Observaciones:
+s;mano_interfalangicas_proximales_auto;Abdución;[(1,'Normal'),(2,'Anormal')]
+t;mano_interfalangicas_proximales_auto;Abducción Observaciones:
+s;mano_interfalangicas_proximales_auto;Aducción;[(1,'Normal'),(2,'Anormal')]
+t;mano_interfalangicas_proximales_auto;Aducción Observaciones:
+s;mano_interfalangicas_diastales_auto;Flexión;[(1,''Normal),(2,'Anormal')]
+t;mano_interfalangicas_diastales_auto;Flexión Observaciones:
+s;mano_interfalangicas_diastales_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+
 
 
 

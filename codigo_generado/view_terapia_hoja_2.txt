@@ -141,3 +141,14 @@
 <field name="mano_metacarpofalangica_abduccion_observaciones" col="1"/>
 <field name="mano_metacarpofalangica_aduccion" col="1"/>
 <field name="mano_metacarpofalangica_aduccion_observaciones" col="1"/>
+<field name="mano_interfalangicas_proximales_flexion" col="1"/>
+<field name="mano_interfalangicas_proximales_flexion_observaciones" col="1"/>
+<field name="mano_interfalangicas_proximales_extension" col="1"/>
+<field name="mano_interfalangicas_proximales_extension_observaciones" col="1"/>
+<field name="mano_interfalangicas_proximales_abducion" col="1"/>
+<field name="mano_interfalangicas_proximales_abduccion_observaciones" col="1"/>
+<field name="mano_interfalangicas_proximales_aduccion" col="1"/>
+<field name="mano_interfalangicas_proximales_aduccion_observaciones" col="1"/>
+<field name="mano_interfalangicas_diastales_flexion" col="1"/>
+<field name="mano_interfalangicas_diastales_flexion_observaciones" col="1"/>
+<field name="mano_interfalangicas_diastales_extension" col="1"/>
