@@ -28,7 +28,7 @@ t;muneca_auto;Resumen Observaciones:
 
 b;muneca_auto;Electro Terapia
 t;muneca_auto_observacion;Electro Terapia:
-b;muneca_auto;Medios Fisicos
+b;muneca_auto;Medios Físicos
 t;muneca_auto_observacion;Medios Fisicos:
 b;muneca_auto;Movilidad Articular
 t;muneca_auto_observacion;Movilidad Articular:
@@ -61,7 +61,7 @@ t;muneca_auto_observacion;Oposición del Pulgar:
 b;muneca_auto;Motricidad Gruesa
 t;muneca_auto_observacion;Motricidad Gruesa:
 
-b;muneca_auto;Medios Fisicos
+b;muneca_auto;Medios Físicos
 t;muneca_auto_observacion;Medios Fisicos:
 b;muneca_auto;Masaje Sedativo
 t;muneca_auto_observacion;Masaje Sedativo:
@@ -101,7 +101,7 @@ t;dorlum_auto;Resumen Observaciones:
 
 b;dorlum_auto;Electro Terapia
 t;dorlum_auto_observacion;Electro Terapia:
-b;dorlum_auto;Medios Fisicos
+b;dorlum_auto;Medios Físicos
 t;dorlum_auto_observaciones;Medios Fisicos:
 b;dorlum_auto;Movilidad Articular
 t;dorlum_auto_observacion;Movilidad Articular:
@@ -162,6 +162,28 @@ t;mano_interfalangicas_proximales_auto;Aducción Observaciones:
 s;mano_interfalangicas_diastales_auto;Flexión;[(1,''Normal),(2,'Anormal')]
 t;mano_interfalangicas_diastales_auto;Flexión Observaciones:
 s;mano_interfalangicas_diastales_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;mano_interfalangicas_diastales_auto;Extensión Observaciones:
+s;mano_metacarpofalangicas_pulgar_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;mano_metacarpofalangicas_pulgar_auto;Flexión Observaciones:
+s;mano_metacarpofalangicas_pulgar_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;mano_metacarpofalangicas_pulgar_auto;Extensión Observaciones:
+s;mano_interfalangicas_pulgar_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;mano_interfalangicas_pulgar_auto;Flexión Observaciones:
+s;mano_interfalangicas_pulgar_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;mano_interfalangicas_pulgar_auto;Extensión Observaciones:
+t;mano_auto;Resumen Observaciones:
+b;mano_auto;Electro Terapia
+t;mano_auto_observacion;Electro Terapia:
+b;mano_auto;Medios Físicos
+t;mano_auto_observacion;Medios Físicos:
+b;mano_auto;Movilidad Articular
+t;mano_auto_observacion;Movilidad Articular:
+b;mano_auto;Estiramiento
+t;mano_auto_observacion;Estiramiento:
+b;mano_auto;Masaje Sedativo
+t;mano_auto_observacion;Masaje sedativo:
+b;mano_auto;Puntual (Electrodiagnóstico)
+t;mano_auto_observacion;Puntual (Electrodiagnóstico)
 
 
 
