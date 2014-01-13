@@ -138,4 +138,19 @@ b;dorlum_auto;Estiramientos
 t;dorlum_auto_observacion;Estiramientos:
 dt;dorlum_auto;Fecha Terapia
 
+s;mano_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
+t;mano_auto;Fuerza Muscular Observaciones:
+s;mano_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
+t;mano_auto;Trofismo Muscular Observaciones:
+s;mano_auto;Trofimos Muscular Opciones;[(1,'General'),(2,'Especifica')]
+s;mano_metacarpofalangica_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;mano_metacarpofalangica_auto;Flexión Observaciones:
+s;mano_metacarpofalangica_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;mano_metacarpofalangica_auto;Extensión Observaciones:
+s;mano_metacarpofalangica_auto;Abducción;[(1,'Normal'),(2,'Anormal')]
+t;mano_metacarpofalangica_auto;abducción Observaciones:
+s;mano_metacarpofalangica_auto;Aducción;[(1,'Normal'),(2,'Anormal')]
+t;mano_metacarpofalangica_auto;Aducción Observaciones:
+
+
 
