@@ -130,6 +130,12 @@ b;dorlum_auto;Estiramientos Activos
 t;dorlum_auto_observacion;Estiramientos Activos:
 b;dorlum_auto;Estiramientos Pasivos
 t;dorlum_auto_observacion;Estiramientos Pasivos:
-
+b;dorlum_auto;Medios Fisicos
+t;dorlum_auto_observacion;Medios Fisicos:
+b;dorlum_auto;Masaje Sedativo
+t;dorlum_auto_observacion;Masaje Sedativo
+b;dorlum_auto;Estiramientos
+t;dorlum_auto_observacion;Estiramientos:
+dt;dorlum_auto;Fecha Terapia
 
 

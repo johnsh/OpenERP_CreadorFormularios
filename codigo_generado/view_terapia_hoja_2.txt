@@ -121,3 +121,10 @@
 <field name="dorlum_estiramientos_activos_observacion" col="1"/>
 <field name="dorlum_estiramientos_pasivos" col="1"/>
 <field name="dorlum_estiramientos_pasivos_observacion" col="1"/>
+<field name="dorlum_medios_fisicos" col="1"/>
+<field name="dorlum_medios_fisicos_observacion" col="1"/>
+<field name="dorlum_masaje_sedativo" col="1"/>
+<field name="dorlum_masaje_sedativo_observacion" col="1"/>
+<field name="dorlum_estiramientos" col="1"/>
+<field name="dorlum_estiramientos_observacion" col="1"/>
+<field name="dorlum_fecha_terapia" col="1"/>
