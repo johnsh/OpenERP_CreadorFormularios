@@ -1,15 +1,16 @@
-d;auto;Fecha Atencion
 m2o;auto;Medico Tratante;delphos.terceros.medico
-m2o;auto;Motivo Consulta;delphos.diagnosticos_tipodiagnostico
+m2o;auto;Motivo Consulta;delphos.diagnosticos_diagnostico
 t;auto;Motivo Consulta Observaciones
 t;auto;Patológicos:
-t;auto;Farmacológicos
-t;auto;Toxicoalergicos
 t;auto;Familiares
+t;auto;Farmacológicos
 t;auto;Ginecoobtetricos
-t;auto;Antecedentes Familiares Otros
-t;auto;Hospitalizaciones:
-t;auto;Patológicos:
+t;auto;Toxicoalergicos
+t;antecedentesotros;Otros
+t;auto;Quirúrgicos
+t;auto;Hospitalizaciones
+
+
 s;auto;Tipo de Intervencion;[(1, 'Evaluacion Inicial'), (2, 'Evaluacion Final'), (3, 'Sesion de Terapia')]
 s;auto;Fuerza Muscular Facial;[(1, 'Movimiento Simétrico 100%'), (2, '3/4 Partes del Movimiento 75% '), (3, '1/2 Partes del Movimiento 50%'), (4, '1/4 Partes del Movimiento 25%')]
 t;auto;Fuerza Muscular Facial Observaciones:
@@ -23,21 +24,21 @@ s;auto;Edema;[(1, 'Sin Edema'), (2, 'G 1 Leve (1cm)'), (3, 'G 2 Moderado (2cm)')
 t;auto;Edema Observaciones:
 
 
-b;auto;Electro Terapia
-b;auto;Medios Físicos
-b;auto;Movilidad de ATM
-b;auto;Estiramiento ATM
-b;auto;Masaje Sedativo
-b;auto;Electrodiagnóstico
-b;auto;Técnica ROOD
-b;auto;Crioestimulación
-b;auto;Gesticulación con Espejo
-b;auto;Ejercicios Activos Mandíbula
-b;auto;Ejercicios Activos Músculos Cara
-b;auto;Reeducación de Tareas de vida diaria
-b;auto;Medios Físicos (frio)
-b;mensaje_perons;Masaje Sedativo
-dt;auto;Fecha Terapia y hora militar
+b;cara_auto;Electro Terapia
+b;cara_auto;Medios Físicos
+b;cara_auto;Movilidad de ATM
+b;cara_auto;Estiramiento ATM
+b;cara_auto;Masaje Sedativo
+b;cara_auto;Electrodiagnóstico
+b;cara_auto;Técnica ROOD
+b;cara_auto;Crioestimulación
+b;cara_auto;Gesticulación con Espejo
+b;cara_auto;Ejercicios Activos Mandíbula
+b;cara_auto;Ejercicios Activos Músculos Cara
+b;cara_auto;Reeducación de Tareas de vida diaria
+b;cara_auto;Medios Físicos (frio)
+b;cara_auto;Masaje Sedativo
+dt;cara_auto;Fecha Terapia y hora
 
 
 b;auto;Ejercicios Isométricos
@@ -58,7 +59,7 @@ s;cuello_elasticidad_muscular;Elasticidad Muscular;[(1,'Normal'),(2,'Leve'),(3,'
 t;cuello_elasticidad_muscular_observaciones;Elasticidad Muscular Observaciones:
 s;cuello_dolor;Dolor;[(1,'Sin dolor|'),(2,'1/10'),(3,'2/10'),(4,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
 t;cuello_dolor_observaciones; Dolor Observaciones:
-s;cuello_auto;Edema;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)),(5,'G 4 Severo (4cm o mas)')]
+s;cuello_auto;Edema;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)'),(5,'G 4 Severo (4cm o mas)')]
 t;cuello_edema_auto;Localización:
 t;cuello_edema_auto;Fóvea:
 dt;cuello_edema_auto;Horario:
@@ -80,4 +81,4 @@ b;cuello_auto;Ejercicios Activos Músculos Cara
 b;cuello_reeducacion_tareas_vida_diaria;Reeducación de Tareas de vida diaria
 b;cuello_auto;Medios Fisicos (frio)
 b;cuello_auto;Masaje Sedativo
-dt;cuello_fecha_terapia_hora_militar;Fecha Terapia y hora militar
+dt;cuello_auto;Fecha Terapia y hora

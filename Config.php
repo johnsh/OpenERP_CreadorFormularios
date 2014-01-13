@@ -1,4 +1,4 @@
 <?php
-$trabajar_en = 'terapia_hoja_1';
+$trabajar_en = 'terapia_hoja_2';
 
 ?>
