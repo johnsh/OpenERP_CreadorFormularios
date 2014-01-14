@@ -60,8 +60,8 @@ b;cadera_estiramiento_activos_pasivos;Estiramientos Activos y Pasivos
 t;cadera_estiramiento_activos_pasivos_observacion;Estiramientos Activos y Pasivos:
 b;cadera_auto;Propiosepción
 t;cadera_auto_observacion;Propiosepción:
-b;cadera_auto;Técnica KABAT
-t;cadera_auto_observacion;Técnica KABAT:
+b;cadera_cadera_tecnica_kabat;Técnica de KABAT
+t;cadera_tecnica_kabat_observacion;Técnica de KABAT:
 b;cadera_tecnica_bobath;Técnica de BOBATH
 t;cadera_tecnica_bobath_observacion;Técnica de BOBATH:
 b;cadera_tecnica_pilates;Técnica de PILATES
@@ -109,3 +109,50 @@ t;rodilla_auto;Sensibilidad Observaciones:
 s;rodilla_auto;Marcha;[(1,'Normal'),(2,'Alterada'),(3,'Con Ayudas Externas'),(4,'Sin Ayudas'),(5,'No Marcha')]
 t;rodilla_auto;Marcha Observaciones:
 t;rodilla_auto;Resumen Observaciones:
+b;rodilla_auto;Electro Terapia
+t;rodilla_auto_observacion;Electro Terapia:
+b;rodilla_auto;Medios Físicos
+t;rodilla_auto_observacion;Medios Físicos:
+b;rodilla_auto;Movilidad Articular
+t;rodilla_auto_observacion;Movilidad Articular:
+b;rodilla_auto;Estiramiento
+t;rodilla_auto_observacion;Estiramiento:
+b;rodilla_auto;Masaje Sedativo
+t;rodilla_auto_observacion;Masaje Sedativo:
+b;rodilla_auto;Puntual (Electrodiagnóstico)
+t;rodilla_auto_observacion;Puntual (Electrodiagnóstico):
+b;rodilla_auto;Elíptica
+t;rodilla_auto_observacion;Elíptica:
+b;rodilla_auto;Bicicleta
+t;rodilla_auto_observacion;Bicicleta:
+b;rodilla_auto;Ejercicios Isométricos
+t;rodilla_auto_observacion;Ejercicios Isométricos:
+b;rodilla_auto;Ejercicios Activos Libres
+t;rodilla_auto_observacion;Ejercicios Activos Libres;
+b;rodilla_auto;Ejercicios Asistidos
+t;rodilla_auto_observacion;Ejercicios Asistidos:
+b;rodilla_auto;Ejercicios Activos Resistidos
+t;rodilla_auto_observacion;Ejercicios Activos Resistidos:
+b;rodilla_auto;Ejercicios Pasivos
+t;rodilla_auto_observacion;Ejercicios Pasivos:
+b;rodilla_estiramientos_activos_pasivos;Estiramientos Activos y Pasivos
+t;rodilla_estiramientos_activos_pasivos_observacion;Estiramientos Activos y Pasivos:
+b;rodilla_auto;Propiosepción
+t;rodilla_auto_observacion;Propiosepción:
+b;rodilla_tecnica_kabat;Tecnica de KABAT
+t;rodilla_tecnica_kabat_observacion;Tecnica de KABAT:
+b;rodilla_tecnica_bobath;Tecnica de BOBATH
+t;rodilla_tecnica_bobath_observacion;Tecnica de BOBATH:
+b;rodilla_tecnica_pilates;Tecnica de PILATES
+t;rodilla_tecnica_pilates_observacion;Tecnica de PILATES:
+b;rodilla_auto;Marcha
+t;rodilla_auto_observacion;Marcha:
+b;rodilla_marcha_cambios_direccion;Marcha con Cambios de Dirección
+t;rodilla_marcha_cambios_direccion_observacion;Marcha con Cambios de Dirección:
+b;rodilla_auto;Coordinación
+t;rodilla_auto_observacion;Coordinación:
+b;rodilla_auro;Pliometria
+t;rodilla_auto_observacion;Pliometria:
+b;rodilla_auto;Equilibrio
+t;rodilla_auto_observacion;Equilibrio:
+
