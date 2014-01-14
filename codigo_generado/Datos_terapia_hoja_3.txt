@@ -25,6 +25,8 @@ t;cadera_edema_auto;Fuerza:
 dt;cadera_edema_auto;Horario:
 t;cadera_edema_auto;Color:
 t;cadera_edema_auto;Temperatura:
+s;cadera_auto;Sensibilidad;[(1,'Normal'),(2,'Tacto'),(3,'Dolor'),(4,'Temperatura'),(5,'Barestesia'),(6,'Barognosia'),(7,'Palestesia'),(8,'Batiestesia')]
+t;cadera_auto;Sensibilidad Observaciones:
 s;cadera_auto;Marcha;[(1,'Normal'),(2,'Alterada'),(3,'Con Ayudas Externas'),(4,'Sin Ayudas'),(5,'No Marcha')]
 t;cadera_auto;Marcha Observaciones:
 t;cadera_auto;Resumen Observaciones:
@@ -83,5 +85,27 @@ t;cadera_auto_observacion;Movilidad Articular Libre:
 b;cadera_auto;Estiramientos
 t;cadera_auto_observacion;Estiramientos:
 dt;cadera_auto;Fecha Terapia
-
-
+s;rodilla_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
+t;rodilla_auto;Fuerza Muscular Observaciones:
+s;rodilla_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
+t;rodilla_auto;Trpfismo Muscular Observaciones:
+s;rodilla_auto;Trofismo Muscular Opciones;[(1,'General'),(2,'Especifica')]
+s;rodilla_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;rodilla_auto;Felxión Observaciones:
+s;rodilla_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;rodilla_auto;Extensión Observaciones:
+s;rodilla_auto;Elasticidad Muscular;[(1,'Normal'),(2,'Leve'),(3,'Moderada'),(4,'Severa')]
+t;rodilla_auto;Elasticidad Muscular Observaciones:
+s;rodilla_auto;Dolor;[(1,'Sin Dolor'),(2,'1/10'),(3,'2/10'),(4,,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
+t;rodilla_auto;Dolor Observaciones:
+s;rodilla_auto;Edema;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)'),(5,'G 4 Severo (4cm o mas)')]
+t;rodilla_edema_auto;Localización:
+t;rodilla_edema_auto;Fóvea:
+dt;rodilla_edema_auto;Horario:
+t;rodilla_edema_auto;Color:
+t;rodilla_edema_auto;Temperatura:
+s;rodilla_auto;Sensibilidad;[(1,'Normal'),(2,'Tacto'),(3,'Dolor'),(4,'Temperatura'),(5,'Barestesia'),(6,'Barognosia'),(7,'Palestesia'),(8,'Batiestesia')]
+t;rodilla_auto;Sensibilidad Observaciones:
+s;rodilla_auto;Marcha;[(1,'Normal'),(2,'Alterada'),(3,'Con Ayudas Externas'),(4,'Sin Ayudas'),(5,'No Marcha')]
+t;rodilla_auto;Marcha Observaciones:
+t;rodilla_auto;Resumen Observaciones:
