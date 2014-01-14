@@ -164,5 +164,34 @@ t;rodilla_auto_observacion;Movilidad Articular Libre:
 b;rodilla_auto;Estiramientos
 t;rodilla_auto_observacion;Estiramientos:
 dt;rodilla_auto;Fecha Terapoa
+s;pie_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
+t;pie_auto;Fuerza Muscular Observaciones:
+s;pie_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
+t;pie_auto;Trofismo Muscular Observaciones:
+s;pie_auto;Trofismo Miuscular Opciones;[(1,'General'),(2,'Especifico')]
+s;pie_metatarsofalangicas_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;pie_metatarsofalangicas_auto;Flexión Observaciones:
+s;pie_metatarsofalangicas_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;pie_metatarsofalangicas_auto;Extensión Observaciones:
+s;pie_metatarsofalangicas_hallux_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;pie_metatarsofalangicas_hallux_auto;Flexión Observaciones:
+s;pie_metatarsofalangicas_hallux_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;pie_metatarsofalangicas_hallux_auto;Extensión Observaciones:
+s;pie_interfalangicas_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;pie_interfalangicas_auto;Flexión Observaciones:
+s;pie_interfalangicas_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;pie_interfalangicas_auto;Extensión Observaciones:
+s;pie_auto;Elasticidad Muscular;[(1,'Normal'),(2,'Leve'),(3,'Moderada'),(4,'Severa')]
+t;pie_auto;Elasticidad Muscular Observaciones:
+s;pie_auto;Dolor;[(1,'Sin Dolor'),(2,'1/10'),(3,'2/10'),(4,,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
+t;pie_auto;Dolor Observaciones:
+s;pie_auto;Edema;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)'),(5,'G 4 Severo (4cm o mas)')]
+t;pie_edema_auto;Localización:
+t;pie_edema_auto;Fóvea:
+dt;pie_edema_auto;Horario:
+t;pie_edema_auto;Color:
+t;pie_edema_auto;Temperatura:
+t;pie_auto;Resumen Observaciones:
+
 
 
