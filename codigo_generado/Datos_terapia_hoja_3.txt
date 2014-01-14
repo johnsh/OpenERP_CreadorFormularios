@@ -1,2 +1,6 @@
 s;cadera_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
 t;cadera_auto;Fuerza Muscular Observaciones:
+s;cadera_auto;Trofismo Mescular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
+t;cadera_auto;Trofismo Muscular Observaciones:
+s;cadera_auto;Trofismo Muscular Opciones;[(1,'General'),(2,'Especifica')]
+s;cadera_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
