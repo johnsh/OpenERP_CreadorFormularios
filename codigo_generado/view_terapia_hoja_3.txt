@@ -155,3 +155,12 @@
 <field name="rodilla_pliometria_observacion" col="1"/>
 <field name="rodilla_equilibrio" col="1"/>
 <field name="rodilla_equilibrio_observacion" col="1"/>
+<field name="rodilla_medios_fisicos" col="1"/>
+<field name="rodilla_medios_fisicos_observacion" col="1"/>
+<field name="rodilla_masaje_sedativo" col="1"/>
+<field name="rodilla_masaje_sedativo_observacion" col="1"/>
+<field name="rodilla_movilidad_articular_libre" col="1"/>
+<field name="rodilla_movilidad_articular_libre_observacion" col="1"/>
+<field name="rodilla_estiramientos" col="1"/>
+<field name="rodilla_estiramientos_observacion" col="1"/>
+<field name="rodilla_fecha_terapoa" col="1"/>

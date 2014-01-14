@@ -155,4 +155,14 @@ b;rodilla_auro;Pliometria
 t;rodilla_auto_observacion;Pliometria:
 b;rodilla_auto;Equilibrio
 t;rodilla_auto_observacion;Equilibrio:
+b;rodilla_auto;Medios Físicos
+t;rodilla_auto_observacion;Medios Físicos:
+b;rodilla_auto;Masaje Sedativo
+t;rodilla_auto_observacion;Masaje Sedativo:
+b;rodilla_auto;Movilidad Articular Libre
+t;rodilla_auto_observacion;Movilidad Articular Libre:
+b;rodilla_auto;Estiramientos
+t;rodilla_auto_observacion;Estiramientos:
+dt;rodilla_auto;Fecha Terapoa
+
 
