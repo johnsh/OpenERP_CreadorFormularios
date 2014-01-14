@@ -30,4 +30,19 @@ t;cadera_auto;Marcha Observaciones:
 t;cadera_auto;Resumen Observaciones:
 b;cadera_auto;Eleto Terapia:
 t;cadera_auto_obsservacion;Electro Terapaia:
+b;cadera_auto;Medios Físicos
+t;cadera_auto_observacion;Medios Físicos:
+b;cadera_auto;Movilidad Articular
+t;cadera_auto_observacion;Movilidad Articular:
+b;cadera_auto;Estiramiento
+t;cadera_auto_observacion;Estiramiento:
+b;cadera_auto;Masaje Sedativo
+t;cadera_auto_observacion;Masaje Sedativo:
+b;cadera_auto;Puntual (Electrodiagnóstico)
+t;cadera_auto_observacion;Puntual (Electrodiagnóstico):
+b;cadera_auto;Elíptica
+t;cadera_auto_observacion;Elíptica:
+b;cadera_auto;Bicicleta
+t;cadera_auto_observacion;Bicicleta:
+
 

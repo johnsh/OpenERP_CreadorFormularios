@@ -30,3 +30,17 @@
 <field name="cadera_resumen_observaciones" col="1"/>
 <field name="cadera_eleto_terapia" col="1"/>
 <field name="cadera_electro_terapaia_obsservacion" col="1"/>
+<field name="cadera_medios_fisicos" col="1"/>
+<field name="cadera_medios_fisicos_observacion" col="1"/>
+<field name="cadera_movilidad_articular" col="1"/>
+<field name="cadera_movilidad_articular_observacion" col="1"/>
+<field name="cadera_estiramiento" col="1"/>
+<field name="cadera_estiramiento_observacion" col="1"/>
+<field name="cadera_masaje_sedativo" col="1"/>
+<field name="cadera_masaje_sedativo_observacion" col="1"/>
+<field name="cadera_puntual_electrodiagnostico" col="1"/>
+<field name="cadera_puntual_electrodiagnostico_observacion" col="1"/>
+<field name="cadera_eliptica" col="1"/>
+<field name="cadera_eliptica_observacion" col="1"/>
+<field name="cadera_bicicleta" col="1"/>
+<field name="cadera_bicicleta_observacion" col="1"/>
