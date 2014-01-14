@@ -44,5 +44,44 @@ b;cadera_auto;Elíptica
 t;cadera_auto_observacion;Elíptica:
 b;cadera_auto;Bicicleta
 t;cadera_auto_observacion;Bicicleta:
+b;cadera_auto;Ejercicios Isométricos
+t;cadera_auto_observacion;Ejercicios Isométricos:
+b;cadera_auto;Ejercicios Activos Libres
+t;cadera_auto_observacion;Ejercicios Activos Libres:
+b;cadera_auto;Ejercicios Asistidos
+t;cadera_auto_observacion;Ejercicios Asistidos:
+b;cadera_auto;Ejercicios Activos Resistidos
+t;cadera_auto_observacion;Ejercicios Activos Resistidos:
+b;cadera_auto;Ejercicios Pasivos
+t;cadera_auto_observacion;Ejercicios Pasivos:
+b;cadera_estiramiento_activos_pasivos;Estiramientos Activos y Pasivos
+t;cadera_estiramiento_activos_pasivos_observacion;Estiramientos Activos y Pasivos:
+b;cadera_auto;Propiosepción
+t;cadera_auto_observacion;Propiosepción:
+b;cadera_auto;Técnica KABAT
+t;cadera_auto_observacion;Técnica KABAT:
+b;cadera_tecnica_bobath;Técnica de BOBATH
+t;cadera_tecnica_bobath_observacion;Técnica de BOBATH:
+b;cadera_tecnica_pilates;Técnica de PILATES
+t;cadera_tecnica_pilates_observacion;Técnica de PILATES:
+b;cadera_auto;Marcha
+t;cadera_auto_observacion;Marcha:
+b;cadera_marcha_cambios_direccion;Marcha con cambios de Dirección
+t;cadera_marcha_cambios_direccion_observacion;Marcha con cambios de Dirección:
+b;cadera_auto;Coordinación
+t;cadera_auto_observacion;Coordinación
+b;cadera_auto;Pliometria
+t;cadera_auto_observacion;Pliometria:
+b;cadera_auto;Equilibrio
+t;cadera_auto_observacion;Equilibrio:
+b;cadera_auto;Medios Físicos
+t;cadera_auto_observacion;Medios Físicos:
+b;cadera_auto;Masaje Sedativo
+t;cadera_auto_observacion;Masaje Sedativo:
+b;cadera_auto;Movilidad Articular Libre
+t;cadera_auto_observacion;Movilidad Articular Libre:
+b;cadera_auto;Estiramientos
+t;cadera_auto_observacion;Estiramientos:
+dt;cadera_auto;Fecha Terapia
 
 
