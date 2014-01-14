@@ -4,3 +4,30 @@ s;cadera_auto;Trofismo Mescular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
 t;cadera_auto;Trofismo Muscular Observaciones:
 s;cadera_auto;Trofismo Muscular Opciones;[(1,'General'),(2,'Especifica')]
 s;cadera_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;cadera_auto;Flexión Observaciones:
+s;cadera_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;cadera_auto;Extensión Observaciones:
+s;cadera_auto;Abdución;[(1,'Normal'),(2,'Anormal')]
+t;cadera_auto;Abdución Observaciones:
+s;cadera_auto;Adución;[(1,'Normal'),(2,'Anormal')]
+t;cadera_auto;Adución Observaciones:
+s;cadera_auto;Rotación Interna;[(1,'Normal'),(2,'Anormal')]
+t;cadera_auto;Rotación Intterna Observaciones:
+s;cadera_auto;Rotación Externa;[(1,'Normal'),(2,'Anormal')]
+t;cadera_auto;Rotación Externa Observaciones:
+s;cadera_auto;Elasticidad Muscuar;[(1,'Normal'),(2,'Leve'),(3,'Moderada'),(4,'Severa')]
+t;cadera_auto;Elasticidad Muscular Observaciones:
+s;cadera_auto;Dolor;[(1,'Sin Dolor'),(2,'1/10'),(3,'2/10'),(4,,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
+t;cadera_auto;Dolor Observaciones:
+s;cadera_auto;Edema;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)'),(5,'G 4 Severo (4cm o mas)')]
+t;cadera_edema_auto;Localización:
+t;cadera_edema_auto;Fuerza:
+dt;cadera_edema_auto;Horario:
+t;cadera_edema_auto;Color:
+t;cadera_edema_auto;Temperatura:
+s;cadera_auto;Marcha;[(1,'Normal'),(2,'Alterada'),(3,'Con Ayudas Externas'),(4,'Sin Ayudas'),(5,'No Marcha')]
+t;cadera_auto;Marcha Observaciones:
+t;cadera_auto;Resumen Observaciones:
+b;cadera_auto;Eleto Terapia:
+t;cadera_auto_obsservacion;Electro Terapaia:
+
