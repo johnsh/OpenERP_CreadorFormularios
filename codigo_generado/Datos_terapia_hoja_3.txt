@@ -192,6 +192,53 @@ dt;pie_edema_auto;Horario:
 t;pie_edema_auto;Color:
 t;pie_edema_auto;Temperatura:
 t;pie_auto;Resumen Observaciones:
+b;pie_auto;Electro Terapia
+t;pie_auto_observacion;Electro Terapia:
+b;pie_auto;Medios Físicos
+t;pie_auto_observacion;Medios Físicos:
+b;pie_auto;Movilidad Articular
+t;pie_auto_observacion;Movilidad Articular:
+b;pie_auto;Estiramiento
+t;pie_auto_observacion;Estiramiento:
+b;pie_auto;Masaje Sedativo
+t;pie_auto_observaciones;Masaje Sedativo:
+b;pie_auto;Puntual (Electrodiagnóstico)
+t;pie_auto_observacion;Puntual (Electrodiagnóstico):
+b;pie_auto;Ejercicios Isométricos
+t;pie_auto_observacion;Ejercicios Isométricos:
+b;pie_auto;Ejercicios Activos Libres
+t;pie_auto_observacion;Ejercicios Activos Libres:
+b;pie_auto;Ejercicios Asistidos
+t;pie_auto_observacion;Ejercicios Asistidos:
+b;pie_auto;Ejercicios Activos Resistidos
+t;pie_auto_observacion;Ejercicios Activos Resistidos:
+b;pie_auto;Ejercicios Pasivos
+t;pie_auto;Ejercicios Pasivos:
+b;pie_estiramientos_activos_pasivos;Estiramientos Activos y Pasivos
+t;pie_estiramientos_activos_pasivos_observacion;Estiramientos Activos y Pasivos:
+b;pie_auto;Propiosepción
+t;pie_auto_observacion;Propiosepción:
+b;pie_auto;Marcha
+t;pie_auto_observacion;Marcha:
+b;pie_marcha_cambios_dirección;Marcha con Cambios de Dirección
+t;pie_marcha_cambios_dirección_observacion;Marcha con Cambios de Dirección:
+b;pie_auto;Coordinación Tronco/Pedial
+t;pie_auto_observacion;Coordinación Tronco/Pedial:
+b;pie_auto;Pliometria
+t;pie_auto_observacion;Pliometria:
+b;pie_auto;Equilibrio
+t;pie_auto_observacion;Equilibrio:
+b;pie_auto;Motricidad Fina
+t;pie_auto_observacion;Motricidad Fina:
+b;pie_auto;Medios Físicos
+t;pie_auto_observacion;Medios Físicos:
+b;pie_auto;Masaje Sedativo
+t;pie_auto_observacion;Masaje Sedativo:
+b;pie_auto;Movilidad Articular Libre
+t;pie_auto_observacion;Movilidad Articular Libre:
+b;pie_auto;Estiramientos
+t;pie_auto_observaciones;Estiramientos:
+
 
 
 
