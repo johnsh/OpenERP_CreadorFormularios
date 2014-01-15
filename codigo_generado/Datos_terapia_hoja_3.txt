@@ -151,7 +151,7 @@ b;rodilla_marcha_cambios_direccion;Marcha con Cambios de Dirección
 t;rodilla_marcha_cambios_direccion_observacion;Marcha con Cambios de Dirección:
 b;rodilla_auto;Coordinación
 t;rodilla_auto_observacion;Coordinación:
-b;rodilla_auro;Pliometria
+b;rodilla_auto;Pliometria
 t;rodilla_auto_observacion;Pliometria:
 b;rodilla_auto;Equilibrio
 t;rodilla_auto_observacion;Equilibrio:
@@ -238,6 +238,90 @@ b;pie_auto;Movilidad Articular Libre
 t;pie_auto_observacion;Movilidad Articular Libre:
 b;pie_auto;Estiramientos
 t;pie_auto_observaciones;Estiramientos:
+dt;pie_auto;Fecha Terapia:
+s;tobillo_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
+t;tobillo_auto;Fuerza Muscular Observaciones:
+s;tobillo_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
+t;tobillo_auto;Trofismo Muscular Observaciones:
+s;tobillo_auto;Trofismo Muscular Opciones;[(1,'General'),(2,'Especifica')]
+s;tobillo_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
+t;tobillo_auto;Flexión Observaciones:
+s;tobillo_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
+t;tobillo_auto;Extensión Observaciones:
+s;tobillo_auto;Inversión;[(1,'Normal'),(2,'Anormal')]
+t;tobillo_auto;Inversión Observaciones:
+s;tobillo_auto;Inclinación;[(1,'Normal'),(2,'Anormal')]
+t;tobillo_auto;Inclinación Observaciones:
+s;tobillo_auto;Elasticidad Muscular;[(1,'Normal'),(2,'Leve'),(3,'Moderada'),(4,'Severa')]
+t;tobillo_auto;Elasticidad Muscular Observaciones:
+s;tobillo_auto;Dolor;[(1,'Sin Dolor'),(2,'1/10'),(3,'2/10'),(4,,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
+t;tobillo_auto;Dolor Observaciones:
+s;tobillo_auto;Edema;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)'),(5,'G 4 Severo (4cm o mas)')]
+t;tobillo_edema_auto;Localización:
+t;tobillo_edema_auto;Fóvea:
+dt;tobillo_edema_auto;Horario:
+t;tobillo_edema_auto;Color:
+t;tobillo_edema_auto;Temperatura:
+s;tobillo_auto;Sensibilidad;[(1,'Normal'),(2,'Tacto'),(3,'Dolor'),(4,'Temperatura'),(5,'Barestesia'),(6,'Barognosia'),(7,'Palestesia'),(8,'Batiestesia')]
+t;tobillo_auto;Sensibilidad Observaciones:
+s;tobillo_auto;Marcha;[(1,'Normal'),(2,'Alterada'),(3,'Con Ayudas Externas'),(4,'Sin Ayudas'),(5,'No Marcha')]
+t;tobillo_auto;Marcha Observaciones:
+t;tobillo_auto;Resumen Observaciones:
+b;tobillo_auto;Electro Terapia
+t;tobillo_auto_observaciones;Electro Terapia:
+b;tobillo_auto;Medios Físicos
+t;tobillo_auto_observacion;Medios Físicos:
+b;tobillo_auto;Movilidad Articular
+t;tobillo_auto_observacion;Movilidad Articular:
+b;tobillo_auto;Estiramiento
+t;tobillo_auto_observacion;Estiramiento:
+b;tobillo_auto;Masaje Sedativo
+t;tobillo_auto_observacion;Masaje Sedativo:
+b;tobillo_auto;Puntula (Electrodiagnóstico)
+t;tobillo_auto_observacion;Puntula (Electrodiagnóstico):
+b;tobillo_auto;Elíptica
+t;tobillo_auto_observacion;Elíptica:
+b;tobillo_auto;Bicicleta
+t;tobillo_auto_observacion;Bicicleta:
+b;tobillo_auto;Ejercicios Isométricos
+t;tobillo_auto_observacion;Ejerciciso Isométricos:
+b;tobillo_auto;Ejercicios Activos Libres
+t;tobillo_auto_observacion;Ejercicios Activos Libres:
+b;tobillo_auto;Ejercicios Asistidos
+t;tobillo_auto_observacion;Ejercicios Asistidos:
+b;tobillo_auto;Ejercicios Activos Resistidos
+t;tobillo_auto_observacion;Ejercicios Activos Resistidos:
+b;tobillo_auto;Ejercicios Pasivos
+t;tobillo_auto_observacion;Ejercicios Pasivos:
+b;tobillo_estiramientos_activos_pasivos;Estiramientos Activos y Pasivos
+t;tobillo_estiramientos_activos_pasivos_observacion;Estiramientos Activos y Pasivos:
+b;tobillo_auto;Propiosepción
+t;tobillo_auto_observacion;Propiosepción:
+b;tobillo_tecnica_kabat;Tecnica de KABT
+t;tobillo_tecnica_kabat_observacion;Tecnica de KABT:
+b;tobillo_tecnica_bobath;Tecnica de BOBATH
+t;tobillo_tecnica_bobath_observacion;Tecnica de BOBATH:
+b;tobillo_tecnica_pilates;Tecnica de PILATES
+t;tobillo_tecnica_pilates_observacion;Tecnica de PILATES:
+b;tobillo_auto;Marcha
+t;tobillo_auto_observacion;Marcha:
+b;tobillo_marcha_cambios_direccion;Marchas con Cambios de Dirección
+t;tobillo_marcha_cambios_direccion_observacion;Marchas con Cambios de Dirección:
+b;tobillo_auto;Coordinación
+t;tobillo_auto_observacion;Coordinación:
+b;tobillo_auto;Pliometria
+t;tobillo_auto_observacion;Pliometria:
+b;tobillo_auto;Equilibrio
+t;tobillo_auto_observacion;Equilibrio:
+b;tobillo_auto;Medios Físicos
+t;tobillo_auto_observacion;Medios Físicos:
+b;tobillo_auto;Masaje Sedativo
+t;tobillo_auto_observacion;Masaje Sedativo:
+b;tobillo_auto;Movilidad Articular Libre
+t;tobillo_auto_observacion;Movilidad Articular Libre:
+b;tobillo_auto;Estiramiento
+t;tobillo_auto_observacion;Estiramiento:
+dt;tobillo_auto;Fecha Terapia:
 
 
 

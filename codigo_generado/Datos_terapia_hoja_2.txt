@@ -67,7 +67,6 @@ t;muneca_auto_observacion;Movilidad Articular libre
 b;muneca_auto;Estiramiento
 t;muneca_auto_observacion;Estiramiento
 dt;muneca_auto;Fecha Terapia
-
 s;dorlum_auto;Fuerza Muscular;(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
 t;dorlum_auto;Fuerza Muscular Observaciones:
 s;dorlum_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]

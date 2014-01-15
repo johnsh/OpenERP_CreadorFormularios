@@ -9,8 +9,6 @@ t;auto;Toxicoalergicos
 t;antecedentesotros;Otros
 t;auto;Quirúrgicos
 t;auto;Hospitalizaciones
-
-
 s;auto;Tipo de Intervencion;[(1, 'Evaluacion Inicial'), (2, 'Evaluacion Final'), (3, 'Sesion de Terapia')]
 s;auto;Fuerza Muscular Facial;[(1, 'Movimiento Simétrico 100%'), (2, '3/4 Partes del Movimiento 75% '), (3, '1/2 Partes del Movimiento 50%'), (4, '1/4 Partes del Movimiento 25%')]
 t;auto;Fuerza Muscular Facial Observaciones:
@@ -22,8 +20,6 @@ s;auto;Dolor;[(1, 'Sin Dolor'), (2, '1/10'), (3, '2/10'), (4, '3/10'), (5, '4/10
 t;auto;Dolor Observaciones:
 s;auto;Edema;[(1, 'Sin Edema'), (2, 'G 1 Leve (1cm)'), (3, 'G 2 Moderado (2cm)'), (4, 'G 3 Intenso (3cm)'), (5, 'G 4 Severo (4cm o mas)')]
 t;auto;Edema Observaciones:
-
-
 b;cara_auto;Electro Terapia
 b;cara_auto;Medios Físicos
 b;cara_auto;Movilidad de ATM
@@ -39,8 +35,6 @@ b;cara_auto;Reeducación de Tareas de vida diaria
 b;cara_auto;Medios Físicos (frio)
 b;cara_auto;Masaje Sedativo
 dt;cara_auto;Fecha Terapia y hora
-
-
 b;auto;Ejercicios Isométricos
 s;cuello_fuerza_muscular;Fuerza Muscular;[(1,'5'),(2,'4+'),(3,'4'),(5,'3+'),(6,'3'),(7,'2+'),(8,'2'),(9,'1'),(10,'1+'),(11,'0')]
 t;cuello_fuerza_muscular_observaciones;Fuerza Muscular Observaciones:
