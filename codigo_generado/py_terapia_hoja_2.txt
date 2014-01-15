@@ -67,6 +67,8 @@
 'muneca_estiramiento' : fields.boolean('Estiramiento'),
 'muneca_estiramiento_observacion' : fields.text('Estiramiento'),
 'muneca_fecha_terapia' : fields.datetime('Fecha Terapia'),
+
+
 'dorlum_fuerza_muscular' : fields.selection((1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')], 'Fuerza Muscular'),
 'dorlum_fuerza_muscular_observaciones' : fields.text('Fuerza Muscular Observaciones:'),
 'dorlum_trofismo_muscular' : fields.selection([(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')], 'Trofismo Muscular'),
@@ -149,10 +151,10 @@
 'mano_interfalangicas_proximales_abduccion_observaciones' : fields.text('Abducción Observaciones:'),
 'mano_interfalangicas_proximales_aduccion' : fields.selection([(1,'Normal'),(2,'Anormal')], 'Aducción'),
 'mano_interfalangicas_proximales_aduccion_observaciones' : fields.text('Aducción Observaciones:'),
-'mano_interfalangicas_diastales_flexion' : fields.selection([(1,''Normal),(2,'Anormal')], 'Flexión'),
-'mano_interfalangicas_diastales_flexion_observaciones' : fields.text('Flexión Observaciones:'),
-'mano_interfalangicas_diastales_extension' : fields.selection([(1,'Normal'),(2,'Anormal')], 'Extensión'),
-'mano_interfalangicas_diastales_extension_observaciones' : fields.text('Extensión Observaciones:'),
+'mano_interfalangicas_distales_flexion' : fields.selection([(1,''Normal),(2,'Anormal')], 'Flexión'),
+'mano_interfalangicas_distales_flexion_observaciones' : fields.text('Flexión Observaciones:'),
+'mano_interfalangicas_distales_extension' : fields.selection([(1,'Normal'),(2,'Anormal')], 'Extensión'),
+'mano_interfalangicas_distales_extension_observaciones' : fields.text('Extensión Observaciones:'),
 'mano_metacarpofalangicas_pulgar_flexion' : fields.selection([(1,'Normal'),(2,'Anormal')], 'Flexión'),
 'mano_metacarpofalangicas_pulgar_flexion_observaciones' : fields.text('Flexión Observaciones:'),
 'mano_metacarpofalangicas_pulgar_extension' : fields.selection([(1,'Normal'),(2,'Anormal')], 'Extensión'),

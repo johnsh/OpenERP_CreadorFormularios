@@ -1,4 +1,4 @@
-s;muneca_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
+s;muneca_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3,'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
 t;muneca_auto;Fuerza Muscular Observaciones:
 s;muneca_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
 t;muneca_auto;Trofismo Muscular Observaciones:
@@ -13,7 +13,7 @@ s;muneca_auto;Desviación Unlar;[(1,'Normal'),(2,'Anormal')]
 t;muneca_auto;Desviación Unlar Observaciones:
 s;muneca_auto;Elasticidad Muscular;[(1,'Normal'),(2,'Leve'),(3,'Moderada'),(4,'Severa')]
 t;muneca_auto;Elasticidad Muscular Observaciones:
-s;muneca_auto;Dolor;[(1,'Sin Dolor'),(2,'1/10'),(3,'2/10'),(4,,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
+s;muneca_auto;Dolor;[(1,'Sin Dolor'),(2,'1/10'),(3,'2/10'),(4,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
 t;muneca_auto;Dolor Observaciones:
 s;muneca_auto;Edena;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)'),(5,'G 4 Severo (4cm o mas)')]
 t;muneca_edema_auto;Localización:
@@ -67,7 +67,7 @@ t;muneca_auto_observacion;Movilidad Articular libre
 b;muneca_auto;Estiramiento
 t;muneca_auto_observacion;Estiramiento
 dt;muneca_auto;Fecha Terapia
-s;dorlum_auto;Fuerza Muscular;(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
+s;dorlum_auto;Fuerza Muscular;(1,'5'),(2,'4+'),(3,'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
 t;dorlum_auto;Fuerza Muscular Observaciones:
 s;dorlum_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
 t;dorlum_auto;:Trofismo Muscular Observaciones:
@@ -128,7 +128,7 @@ t;dorlum_auto_observacion;Masaje Sedativo
 b;dorlum_auto;Estiramientos
 t;dorlum_auto_observacion;Estiramientos:
 dt;dorlum_auto;Fecha Terapia
-s;mano_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
+s;mano_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3,'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
 t;mano_auto;Fuerza Muscular Observaciones:
 s;mano_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
 t;mano_auto;Trofismo Muscular Observaciones:
@@ -149,7 +149,7 @@ s;mano_interfalangicas_proximales_auto;Abdución;[(1,'Normal'),(2,'Anormal')]
 t;mano_interfalangicas_proximales_auto;Abducción Observaciones:
 s;mano_interfalangicas_proximales_auto;Aducción;[(1,'Normal'),(2,'Anormal')]
 t;mano_interfalangicas_proximales_auto;Aducción Observaciones:
-s;mano_interfalangicas_diastales_auto;Flexión;[(1,''Normal),(2,'Anormal')]
+s;mano_interfalangicas_diastales_auto;Flexión;[(1,'Normal'),(2,'Anormal')]
 t;mano_interfalangicas_diastales_auto;Flexión Observaciones:
 s;mano_interfalangicas_diastales_auto;Extensión;[(1,'Normal'),(2,'Anormal')]
 t;mano_interfalangicas_diastales_auto;Extensión Observaciones:
@@ -205,7 +205,7 @@ t;mano_auto_observacion;Movilidad Articular Libre:
 b;mano_auto;Estiramientos
 t;mano_auto_observaciones;Estiramientos:
 dt;mano_auto;Fecha Terapia
-s;lumbar_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3.'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
+s;lumbar_auto;Fuerza Muscular;[(1,'5'),(2,'4+'),(3,'4'),(4,'3+'),(5,'3'),(6,'2+'),(7,'2'),(8,'1'),(9,'1+'),(10,'0')]
 t;lumbar_auto;Fuerza Muscular Observaciones:
 s;lumbar_auto;Trofismo Muscular;[(1,'Eutrofia'),(2,'Atrofia'),(3,'Hipertrofia')]
 t;lumbar_auto;Trofismo Muscular Observaciones:
@@ -220,7 +220,7 @@ s;lumbar_auto;Inclinacion;[(1,'Normal'),(2,'Anormal')]
 t;lumbar_auto;Inclinación Observaciones:
 s;lumbar_auto;Elasticidad Muscular;[(1,'Normal'),(2,'Leve'),(3,'Moderada'),(4,'Severa')]
 t;lumbar_auto;Elasticidad Muscular Observaciones:
-s;lumbar_auto;Dolor;[(1,'Sin Dolor'),(2,'1/10'),(3,'2/10'),(4,,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
+s;lumbar_auto;Dolor;[(1,'Sin Dolor'),(2,'1/10'),(3,'2/10'),(4,'3/10'),(5,'4/10'),(6,'5/10'),(7,'6/10'),(8,'7/10'),(9,'8/10'),(10,'9/10'),(11,'10/10')]
 t;lumbar_auto;Dolor Observaciones:
 s;lumbar_auto;Edema;[(1,'Sin Edema'),(2,'G 1 Leve (1cm)'),(3,'G 2 Moderado (2cm)'),(4,'G 3 Intenso (3cm)'),(5,'G 4 Severo (4cm o mas)')]
 t;lumbar_edema_auto;Localización:

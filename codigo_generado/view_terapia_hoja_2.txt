@@ -24,6 +24,9 @@
 <field name="muneca_sensibilidad" col="1"/>
 <field name="muneca_sensibilidad_observaciones" col="1"/>
 <field name="muneca_resumen_observaciones" col="1"/>
+
+
+
 <field name="muneca_electro_terapia" col="1"/>
 <field name="muneca_electro_terapia_observacion" col="1"/>
 <field name="muneca_medios_fisicos" col="1"/>
@@ -67,6 +70,8 @@
 <field name="muneca_estiramiento" col="1"/>
 <field name="muneca_estiramiento_observacion" col="1"/>
 <field name="muneca_fecha_terapia" col="1"/>
+
+
 <field name="dorlum_fuerza_muscular" col="1"/>
 <field name="dorlum_fuerza_muscular_observaciones" col="1"/>
 <field name="dorlum_trofismo_muscular" col="1"/>
@@ -128,6 +133,12 @@
 <field name="dorlum_estiramientos" col="1"/>
 <field name="dorlum_estiramientos_observacion" col="1"/>
 <field name="dorlum_fecha_terapia" col="1"/>
+
+
+
+
+
+
 <field name="mano_fuerza_muscular" col="1"/>
 <field name="mano_fuerza_muscular_observaciones" col="1"/>
 <field name="mano_trofismo_muscular" col="1"/>
@@ -149,10 +160,10 @@
 <field name="mano_interfalangicas_proximales_abduccion_observaciones" col="1"/>
 <field name="mano_interfalangicas_proximales_aduccion" col="1"/>
 <field name="mano_interfalangicas_proximales_aduccion_observaciones" col="1"/>
-<field name="mano_interfalangicas_diastales_flexion" col="1"/>
-<field name="mano_interfalangicas_diastales_flexion_observaciones" col="1"/>
-<field name="mano_interfalangicas_diastales_extension" col="1"/>
-<field name="mano_interfalangicas_diastales_extension_observaciones" col="1"/>
+<field name="mano_interfalangicas_distales_flexion" col="1"/>
+<field name="mano_interfalangicas_distales_flexion_observaciones" col="1"/>
+<field name="mano_interfalangicas_distales_extension" col="1"/>
+<field name="mano_interfalangicas_distales_extension_observaciones" col="1"/>
 <field name="mano_metacarpofalangicas_pulgar_flexion" col="1"/>
 <field name="mano_metacarpofalangicas_pulgar_flexion_observaciones" col="1"/>
 <field name="mano_metacarpofalangicas_pulgar_extension" col="1"/>
@@ -162,6 +173,8 @@
 <field name="mano_interfalangicas_pulgar_extension" col="1"/>
 <field name="mano_interfalangicas_pulgar_extension_observaciones" col="1"/>
 <field name="mano_resumen_observaciones" col="1"/>
+
+
 <field name="mano_electro_terapia" col="1"/>
 <field name="mano_electro_terapia_observacion" col="1"/>
 <field name="mano_medios_fisicos" col="1"/>
@@ -205,6 +218,15 @@
 <field name="mano_estiramientos" col="1"/>
 <field name="mano_estiramientos_observaciones" col="1"/>
 <field name="mano_fecha_terapia" col="1"/>
+
+
+
+
+
+
+
+
+
 <field name="lumbar_fuerza_muscular" col="1"/>
 <field name="lumbar_fuerza_muscular_observaciones" col="1"/>
 <field name="lumbar_trofismo_muscular" col="1"/>
