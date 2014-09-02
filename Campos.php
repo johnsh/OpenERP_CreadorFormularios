@@ -5,6 +5,7 @@ class Campos extends General{
 
 
 
+
 	function de_templates_a_field( $dato ){
 		// Se identifica la cadena automatica
 		$dato[1] = ( $dato[1] == 'auto' ? $this->auto(  $dato[2] ) : $dato[1] );
@@ -14,6 +15,9 @@ class Campos extends General{
 			$dato[ 1 ] = str_replace('auto', $this->auto(  $dato[2] ), $dato[ 1 ]);
 		}
 
+		if( strlen($dato[ 1 ]) >= 30 ){
+			echo '<strong>' . $dato[ 1 ] . '</strong>'  . ' Campo con longitud muy amplia' . '<br />';
+		}
 
 		// Se identifica el template.
 		$tmpl = $this->templates_campos[ $dato[ 0 ] ];
@@ -47,8 +51,6 @@ class Campos extends General{
 
 		// Extraemos el primer elemento del array, referente al tipo de dato
 		array_shift( $dato );
-
-
 
 		$this->campos_leidos[] = vsprintf( $tmpl, $dato );	
 	

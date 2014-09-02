@@ -1,0 +1,359 @@
+s;auto;HTA Cronica;[(1, 'Si'), (2, 'No')]
+t;auto;HTA Cronica Observacion
+s;auto;Diabetes;[(1, 'Si'), (2, 'No')]
+t;auto;Diabetes Observacion
+s;auto;Preclamsia;[(1, 'Si'), (2, 'No')]
+t;auto;Preclamsia Observacion
+s;auto;Eclamsia;[(1, 'Si'), (2, 'No')]
+t;auto;Eclamsia Observacion
+s;auto;Gemelares;[(1, 'Si'), (2, 'No')]
+t;auto;Gemelares Observacion
+s;auto;Cardiopatia;[(1, 'Si'), (2, 'No')]
+t;auto;Cardiopatia Observacion
+s;auto;TBC;[(1, 'Si'), (2, 'No')]
+t;auto;TBC Observacion
+s;auto;Metabolicos;[(1, 'Si'), (2, 'No')]
+t;auto;Metabolicos Observacion
+s;auto;Autoinmunes;[(1, 'Si'), (2, 'No')]
+t;auto;Autoinmunes Observacion
+s;auto;Infecciones(TBC/HIV.ETS);[(1, 'Si'), (2, 'No')]
+t;auto;Infecciones Observacion
+s;auto;Congenitos;[(1, 'Si'), (2, 'No')]
+t;auto;Congenitos Observacion
+s;auto;Neoplasias;[(1, 'Si'), (2, 'No')]
+t;auto;Neoplasias Observacion
+s;auto;Epilepsia;[(1, 'Si'), (2, 'No')]
+t;auto;Epilepsia Observacion
+s;auto;Antecedentes Familiares otros;[(1, 'Si'), (2, 'No')]
+t;auto;Antecedente Familiares Otros Observacion
+
+
+s;auto;Tuberculosis;[(1, 'Si'), (2, 'No')]
+t;auto;Tuberculosis Observacion
+s;auto;Diabetes Mellitus;[(1, 'Si'), (2, 'No')]
+t;auto;Diabetes Mellitus Observacion
+s;auto;Diabetes Gestacional;[(1, 'Si'), (2, 'No')]
+t;auto;Diabetes Gestacional Observacion
+s;auto;HTA Cronica;[(1, 'Si'), (2, 'No')]
+t;auto;HTA Cronica Observacion
+s;auto;Cirugia Pelvico Uterina;[(1, 'Si'), (2, 'No')]
+t;auto;Cirugia Pelvico Uterina Observacion
+s;auto;Preeclamsia;[(1, 'Si'), (2, 'No')]
+t;auto;Preeclamsia Observacion
+s;auto;Eclampsia;[(1, 'Si'), (2, 'No')]
+t;auto;Eclampsia Observacion
+s;auto;Hemoglobinopatias;[(1, 'Si'), (2, 'No')]
+t;auto;Hemoglobinopatias Observacion
+s;auto;Alergicos;[(1, 'Si'), (2, 'No')]
+t;auto;Alergicos Observacion
+s;auto;Tabaquismo;[(1, 'Si'), (2, 'No')]
+t;auto;Tabaquismo Observacion
+s;auto;Antitetanica Previa;[(1, 'Si'), (2, 'No')]
+t;auto;Antitetanica Previa Observacion
+s;auto;Enfermedad Mental;[(1, 'Si'), (2, 'No')]
+t;auto;Enfermedad Mental Observacion
+s;auto;Alcoholismo;[(1, 'Si'), (2, 'No')]
+t;auto;Alcoholismo Observacion
+s;auto;Actividad Fisica Excesiva;[(1, 'Si'), (2, 'No')]
+t;auto;Actividad Fisica Excesiva Observacion
+s;auto;Victima de Maltrato;[(1, 'Si'), (2, 'No')]
+t;auto;Victima de Maltrato Observacion
+s;auto;Antecedentes Personales Otros;[(1, 'Si'), (2, 'No')]
+t;auto;Antecedentes Personales Otros Observacion
+
+
+
+
+i;auto;Numero de Embarazos
+i;auto;Partos Vaginales
+i;auto;Cesareas
+i;auto;Abortos
+i;auto;Ectopicos
+i;auto;Nacidos Vidos
+i;auto;Nacidos Muertos Con mas de 22 Semanas o Peso Mayor a 500grs
+
+
+i;auto;Menarquia
+s;auto;Ciclos;[(1, 'Regulares'), (2, 'Irregulares')]
+s;auto;Planificacion Familiar;[(1, 'Si'),(2, 'No')]
+s;auto;Flujo Vaginal;[(1, 'Agregar Opciones')]
+s;auto;ETS;[(1, 'Si'),(2, 'No')]
+s;auto;Citologia Ultimo Año;[(1, 'Si'),(2, 'No'), (3, 'Normal'),(2, 'Anormal')]
+s;auto;Colposcopia;[(1, 'Si'),(2, 'No')]
+s;auto;Periodo Intergenesico;[(1, u'Mayor 2 Años'),(2, 'Menor')]
+s;auto;Infertilidad;[(1, 'Si'),(2, 'No')]
+
+s;auto;Ttos de Infertilidad;[(1, 'Si'),(2, 'No'))]
+s;auto;RPM;[(1, 'Si'),(2, 'No')]
+s;auto;RCIU;[(1, 'Si'),(2, 'No')]
+s;auto;APP;[(1, 'Si'),(2, 'No')]
+s;auto;Parto Prematuro;[(1, 'Si'),(2, 'No')]
+s;auto;Gemelar;[(1, 'Si'),(2, 'No')]
+s;auto;Malformaciones;[(1, 'Si'),(2, 'No')]
+s;auto;Polihidramnios;[(1, 'Si'),(2, 'No')]
+s;auto;Oligohidramnios;[(1, 'Si'),(2, 'No')]
+s;auto;Embarazo Prolongado;[(1, 'Si'),(2, 'No')]
+s;auto;Amenaza Aborto;[(1, 'Si'),(2, 'No')]
+t;auto;Antecedentes Ginecologicos Obstetricos Otro
+
+
+t;auto;Anamnesis y Evolucion
+
+
+s;auto;Historia Reproductiva Edad;[(1, 'Menos de 16'), (2, 'Entre 16 y 35'), (3, 'Mas de 35')]
+s;auto;Historia Reproductiva Paridad;[(1, '0'), (2, '1-4'), (3, '5 O mas')]
+
+b;auto;Aborto Habitual/Infertilidad
+b;auto;Retencion Placentaria
+b;auto;Recien Nacido>4000gr
+b;auto;Recien Nacido<2500gr
+b;auto;HTA Inducida por Embarazo
+b;auto;Embarazo Gemelar/Cesarea Precia
+b;auto;Mortinato/Muerte Neonatal
+b;auto;TP Prolongado Parto Dificil
+
+
+s;auto;Condiciones Asociadas Qx Ginecologia Previa/Ectopico 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfemedad Renal Cronica 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Diabetes Gestacional 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Diabetes Mellitus 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfermedad Cardiaca 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfermedad Infecciosa Aguda(Bacteriana) 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfermedad Autoinmune 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Anemia(Hb<10g/l) 1 Tri;[(1, 'Si'), (2, 'No')]
+
+s;auto;Condiciones Asociadas Qx Ginecologia Previa/Ectopico 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfemedad Renal Cronica 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Diabetes Gestacional 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Diabetes Mellitus 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfermedad Cardiaca 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfermedad Infecciosa Aguda(Bacteriana) 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfermedad Autoinmune 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Anemia(Hb<10g/l) 2 Tri;[(1, 'Si'), (2, 'No')]
+
+s;auto;Condiciones Asociadas Qx Ginecologia Previa/Ectopico 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfemedad Renal Cronica 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Diabetes Gestacional 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Diabetes Mellitus 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfermedad Cardiaca 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfermedad Infecciosa Aguda(Bacteriana) 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Enfermedad Autoinmune 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Condiciones Asociadas Anemia(Hb<10g/l) 3 Tri;[(1, 'Si'), (2, 'No')]
+
+
+
+s;auto;Embarazo Actual Hemorragia<=20sem 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Vaginal>20sem 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Embarazo Prolongado(41sem) 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual HTA 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual RMP 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Polihidramnios 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual RCIU 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Multiple 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Mala Presentacion 1 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Isoinmunizacion R.H 1 Tri;[(1, 'Si'), (2, 'No')]
+
+s;auto;Embarazo Actual Hemorragia<=20sem 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Vaginal>20sem 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Embarazo Prolongado(41sem) 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual HTA 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual RMP 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Polihidramnios 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual RCIU 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Multiple 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Mala Presentacion 2 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Isoinmunizacion R.H 2 Tri;[(1, 'Si'), (2, 'No')]
+
+s;auto;Embarazo Actual Hemorragia<=20sem 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Vaginal>20sem 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Embarazo Prolongado(41sem) 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual HTA 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual RMP 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Polihidramnios 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual RCIU 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Multiple 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Mala Presentacion 3 Tri;[(1, 'Si'), (2, 'No')]
+s;auto;Embarazo Actual Isoinmunizacion R.H 3 Tri;[(1, 'Si'), (2, 'No')]
+
+
+t;auto;Riesgo Biopsicosocial
+
+s;auto;Riesgo Biopsicosocial Prenatal Semana 14 - 27;[(1, 'Bajo < 3'), ('Alto >= 3')]
+i;auto;Riesgo Biopsicosocial Prenatal Semana 14 - 27 Total
+
+s;auto;Riesgo Biopsicosocial Prenatal Semana 28 - 32;[(1, 'Bajo < 3'), ('Alto >= 3')]
+i;auto;Riesgo Biopsicosocial Prenatal Semana 28 - 32 Total
+
+s;auto;Riesgo Biopsicosocial Prenatal Semana 32 - 42;[(1, 'Bajo < 3'), ('Alto >= 3')]
+i;auto;Riesgo Biopsicosocial Prenatal Semana 32 - 42 Total
+
+
+f;auto;Examenes Durante Embarazo Hb mg/dll;(3,2)
+d;auto;Examenes Durante Embarazo Hb mg/dll Fecha
+
+s;auto;Examenes Durante Embarazo VDRL;[(1, 'Reactivo'), (2, 'No Reactivo')]
+d;auto;Examenes Durante Embarazo VDRL Fecha
+
+s;auto;Examenes Durante Embarazo VIH;[(1, 'Reactivo'), (2, 'No Reactivo')]
+d;auto;Examenes Durante Embarazo VIH Fecha
+
+s;auto;Examenes Durante Embarazo Hepatitis B;[(1, 'Reactivo'), (2, 'No Reactivo')]
+d;auto;Examenes Durante Embarazo Hepatitis B Fecha
+
+s;auto;Examenes Durante Embarazo Citologia Cervical;[(1, 'Normal'), (2, 'Anormal')]
+d;auto;Examenes Durante Embarazo Citologia Cervical Fecha
+
+t;auto;Examenes Durante Embarazo Ecografia
+
+m2o;auto;delphos.generales_gruposanguineo;Grupo y RH
+
+s;auto;Coombs Ind Sem 16;[('1', 'Positivo'),(2, 'Negativo')]
+d;auto;Coombs Ind Sem 16 Fecha
+s;auto;Coombs Ind Sem 20;[('1', 'Positivo'),(2, 'Negativo')]
+d;auto;Coombs Ind Sem 20 Fecha
+s;auto;Coombs Ind Sem 24;[('1', 'Positivo'),(2, 'Negativo')]
+d;auto;Coombs Ind Sem 24 Fecha
+s;auto;Coombs Ind Sem 28;[('1', 'Positivo'),(2, 'Negativo')]
+d;auto;Coombs Ind Sem 28 Fecha
+s;auto;Coombs Ind Sem 32;[('1', 'Positivo'),(2, 'Negativo')]
+d;auto;Coombs Ind Sem 32 Fecha
+s;auto;Coombs Ind Sem 36;[('1', 'Positivo'),(2, 'Negativo')]
+d;auto;Coombs Ind Sem 36 Fecha
+
+f;auto;Glicemia en Ayunas 1;(3,2)
+f;auto;Glicemia en Ayunas 2;(3,2)
+
+f;auto;Glicemia Pre (mgr/dl);(3,2)
+f;auto;Glicemia Post (mgr/dl);(3,2)
+d;auto;Glicemia Post Fecha
+
+
+i;auto;CTOG Glicemia Primera Pre
+i;auto;CTOG Glicemia Primera 1h
+i;auto;CTOG Glicemia Primera 2h
+i;auto;CTOG Glicemia Primera 3h
+d;auto;CTOG Glicemia Primera Fecha
+
+i;auto;CTOG Glicemia Segunda Pre
+i;auto;CTOG Glicemia Segunda 1h
+i;auto;CTOG Glicemia Segunda 2h
+i;auto;CTOG Glicemia Segunda 3h
+d;auto;CTOG Glicemia Segunda Fecha
+
+
+
+s;auto;Curva de Glicemia;[(1, 'Agregar Opciones')]
+s;auto;Roll-Over test;[(1, 'Agregar Opciones')]
+
+f;auto;Hb 1 Tri;(3,2)
+f;auto;HCTO 1 Tri;(3,2)
+s;auto;VDRL 1 Tri;[(1, 'Reactivo'),(2, 'Reactivo')]
+s;auto;Frotis Vaginal 1 Tri;[(1, 'Normal'),(2, 'Anormal')]
+s;auto;P. Orina 1 Tri;[(1, 'Normal'),(2, 'Contaminada'),(3, 'Patologico')]
+
+
+f;auto;Hb 2 Tri;(3,2)
+f;auto;HCTO 2 Tri;(3,2)
+s;auto;VDRL 2 Tri;[(1, 'Reactivo'),(2, 'Reactivo')]
+s;auto;Frotis Vaginal 2 Tri;[(1, 'Normal'),(2, 'Anormal')]
+s;auto;P. Orina 2 Tri;[(1, 'Normal'),(2, 'Contaminada'),(3, 'Patologico')]
+
+f;auto;Hb 3 Tri;(3,2)
+f;auto;HCTO 3 Tri;(3,2)
+s;auto;VDRL 3 Tri;[(1, 'Reactivo'),(2, 'Reactivo')]
+s;auto;Frotis Vaginal 3 Tri;[(1, 'Normal'),(2, 'Anormal')]
+s;auto;P. Orina 3 Tri;[(1, 'Normal'),(2, 'Contaminada'),(3, 'Patologico')]
+
+
+s;auto;Urocultivo 1 Tri;[(1, 'Normal'),(2, 'Patologico')]
+s;auto;FTA-ABS 1 Tri;[(1, 'Positivo'),(2, 'Negativo')]
+s;auto;HIV 1 Tri;[(1, 'Reactivo'),(2, 'No Reactivo')]
+s;auto;Hepatitis B(HBs Ag) 1 Tri;[(1, 'Reactivo'),(2, 'No Reactivo')]
+s;auto;Antitetanica 1 Tri;[(1, 'Si'),(2, 'No')]
+s;auto;Citologia Cervical 1 Tri;[(1, 'Normal'),(2, 'Anormal')]
+
+s;auto;Urocultivo 2 Tri;[(1, 'Normal'),(2, 'Patologico')]
+s;auto;FTA-ABS 2 Tri;[(1, 'Positivo'),(2, 'Negativo')]
+s;auto;HIV 2 Tri;[(1, 'Reactivo'),(2, 'No Reactivo')]
+s;auto;Hepatitis B(HBs Ag) 2 Tri;[(1, 'Reactivo'),(2, 'No Reactivo')]
+s;auto;Antitetanica 2 Tri;[(1, 'Si'),(2, 'No')]
+s;auto;Citologia Cervical 2 Tri;[(1, 'Normal'),(2, 'Anormal')]
+
+s;auto;Urocultivo 3 Tri;[(1, 'Normal'),(2, 'Patologico')]
+s;auto;FTA-ABS 3 Tri;[(1, 'Positivo'),(2, 'Negativo')]
+s;auto;HIV 3 Tri;[(1, 'Reactivo'),(2, 'No Reactivo')]
+s;auto;Hepatitis B(HBs Ag) 3 Tri;[(1, 'Reactivo'),(2, 'No Reactivo')]
+s;auto;Antitetanica 3 Tri;[(1, 'Si'),(2, 'No')]
+s;auto;Citologia Cervical 3 Tri;[(1, 'Normal'),(2, 'Anormal')]
+
+
+
+
+i;auto;Eco 1 Tri Edad Gestacional Segun Ecografia
+s;auto;Eco 1 Tri Correspondencia Con La Edad Gestacional por amenorrea;[(1, 'Si'),(2, 'No')]
+s;auto;Eco 1 Tri Presencia de Hematoma;[(1, 'Si'),(2, 'No')]
+s;auto;Eco 1 Tri Sonolucencia Nucal;[(1, 'Normal'),(2, 'Anormal')]
+s;auto;Eco 1 Tri Otros Marcadores de Aneuploidia;[(1, 'Si'),(2, 'No')]
+
+b;auto;Eco 2 Tri Normal
+b;auto;Eco 2 Tri Polihidramnios
+b;auto;Eco 2 Tri RCIU
+b;auto;Eco 2 Tri Malformacion
+b;auto;Eco 2 Tri Oligohidramnios
+b;auto;Eco 2 Tri Macrosomia
+b;auto;Eco 2 Tri Otras Anormalidades
+
+b;auto;Eco 3 Tri Normal
+b;auto;Eco 3 Tri Polihidramnios
+b;auto;Eco 3 Tri RCIU
+b;auto;Eco 3 Tri Malformacion
+b;auto;Eco 3 Tri Oligohidramnios
+b;auto;Eco 3 Tri Macrosomia
+b;auto;Eco 3 Tri Otras Anormalidades
+
+
+b;auto;Morbilidad Materna Ninguna
+b;auto;Morbilidad Materna Preclamsia Leve
+b;auto;Morbilidad Materna Hipertension Gestacional
+b;auto;Morbilidad Materna Sifilis
+b;auto;Morbilidad Materna VIH
+b;auto;Morbilidad Materna Hemorragia del Primer Trimestre
+b;auto;Morbilidad Materna Ruptura Prematura de Membranas
+b;auto;Morbilidad Materna Sepsis Puerperal
+b;auto;Morbilidad Materna Atonia Uterina
+b;auto;Morbilidad Materna CID
+b;auto;Morbilidad Materna Embarazo Multiple
+b;auto;Morbilidad Materna Preclamsia Severa
+b;auto;Morbilidad Materna Eclampsia
+b;auto;Morbilidad Materna Diabetes Mellitus Previa
+b;auto;Morbilidad Materna Malaria
+b;auto;Morbilidad Materna TBC
+b;auto;Morbilidad Materna Placenta Previa
+b;auto;Morbilidad Materna Anemia
+b;auto;Morbilidad Materna Hemorragia Postparto
+b;auto;Morbilidad Materna Desgarros Perinatales
+b;auto;Morbilidad Materna Hipertension Cronica
+b;auto;Morbilidad Materna Preclamsia Severa Con Sindrome HELLP
+b;auto;Morbilidad Materna Cardiopatia
+b;auto;Morbilidad Materna Infeccion Aurinaria
+b;auto;Morbilidad Materna Hepatitis Viral
+b;auto;Morbilidad Materna Amenaza o Trabajo de Parto Prematuro
+b;auto;Morbilidad Materna Abruptio Placenta
+b;auto;Morbilidad Materna R.C.I.U
+b;auto;Morbilidad Materna Placenta Retenida
+b;auto;Morbilidad Materna Tromboembolismo Pulmonar
+t;auto;Morbilidad Materna Otros Cual ?
+
+s;auto;Morbilidades Trazadoras Preclamsia;[(1, 'Agregar Opciones')]
+t;auto;Morbilidades Trazadoras Preclamsia Observaciones
+s;auto;Morbilidades Trazadoras Parto Prematuro;[(1, 'Agregar Opciones')]
+t;auto;Morbilidades Trazadoras Parto Prematuro Observaciones
+s;auto;Morbilidades Trazadoras Diabetes Gestacional;[(1, 'Agregar Opciones')]
+t;auto;Morbilidades Trazadoras Diabetes Gestacional Observaciones
+s;auto;Morbilidades Trazadoras Bajo Peso;[(1, 'Agregar Opciones')]
+t;auto;Morbilidades Trazadoras Bajo Peso Observaciones
+s;auto;Morbilidades Trazadoras Riesgo Psicosocial;[(1, 'Agregar Opciones')]
+t;auto;Morbilidades Trazadoras Riesgo Psicosocial Observaciones
+s;auto;Morbilidades Trazadoras HPP y/o Parto Obstruido;[(1, 'Agregar Opciones')]
+t;auto;Morbilidades Trazadoras HPP y/o Parto Obstruido Observaciones
+

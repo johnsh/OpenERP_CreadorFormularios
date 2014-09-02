@@ -1,0 +1,21 @@
+b;auto;Electro Terapia
+b;auto;Medios Físicos
+b;auto;Movilidad Articular
+b;auto;Estiramiento
+b;auto;Puntual (Electrodiagnóstico)
+
+b;auto;Tecnica de CODMAN
+b;auto;Tecnica de KABAT
+b;auto;Tecnica de BOBATH
+b;auto;Tecnica de PILATES
+b;auto;Ejercicios Isométricos
+b;auto;Ejercicios Activos Libres
+b;auto;Ejercicios Asistidos
+b;auto;Ejercicios Activos Resistidos
+b;auto;Ejercicios Pasivos
+b;auto;Estiramientos Activos y Pasivos
+b;auto;Propiosepción
+b;auto;Medios Físicos 
+b;auto;Masaje Sedativo
+b;auto;Movilidad Articular Libre
+b;auto;Estiramientos
