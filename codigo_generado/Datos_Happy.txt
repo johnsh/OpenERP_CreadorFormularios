@@ -1,4 +1,5 @@
 s;auto;HTA Cronica;[(1, 'Si'), (2, 'No')]
+s;auto;HTA Cronica;[(1, 'Si'), (2, 'No')]
 t;auto;HTA Cronica Observacion
 s;auto;Diabetes;[(1, 'Si'), (2, 'No')]
 t;auto;Diabetes Observacion
@@ -25,7 +26,7 @@ t;auto;Neoplasias Observacion
 s;auto;Epilepsia;[(1, 'Si'), (2, 'No')]
 t;auto;Epilepsia Observacion
 s;auto;Antecedentes Familiares otros;[(1, 'Si'), (2, 'No')]
-t;auto;Antecedente Familiares Otros Observacion
+t;antecedentes_familiares_otros;Antecedente Familiares Otros Observacion
 
 
 s;auto;Tuberculosis;[(1, 'Si'), (2, 'No')]
@@ -33,11 +34,11 @@ t;auto;Tuberculosis Observacion
 s;auto;Diabetes Mellitus;[(1, 'Si'), (2, 'No')]
 t;auto;Diabetes Mellitus Observacion
 s;auto;Diabetes Gestacional;[(1, 'Si'), (2, 'No')]
-t;auto;Diabetes Gestacional Observacion
+t;diabetes_gesta_observacion;Diabetes Gestacional Observacion
 s;auto;HTA Cronica;[(1, 'Si'), (2, 'No')]
 t;auto;HTA Cronica Observacion
 s;auto;Cirugia Pelvico Uterina;[(1, 'Si'), (2, 'No')]
-t;auto;Cirugia Pelvico Uterina Observacion
+t;cirugia_pelvico_uterina_obs;Cirugia Pelvico Uterina Observacion
 s;auto;Preeclamsia;[(1, 'Si'), (2, 'No')]
 t;auto;Preeclamsia Observacion
 s;auto;Eclampsia;[(1, 'Si'), (2, 'No')]
@@ -70,7 +71,7 @@ i;auto;Cesareas
 i;auto;Abortos
 i;auto;Ectopicos
 i;auto;Nacidos Vidos
-i;auto;Nacidos Muertos Con mas de 22 Semanas o Peso Mayor a 500grs
+i;nacidos_muertos_22_semanas_500grs;Nacidos Muertos Con mas de 22 Semanas o Peso Mayor a 500grs
 
 
 i;auto;Menarquia
@@ -94,7 +95,7 @@ s;auto;Polihidramnios;[(1, 'Si'),(2, 'No')]
 s;auto;Oligohidramnios;[(1, 'Si'),(2, 'No')]
 s;auto;Embarazo Prolongado;[(1, 'Si'),(2, 'No')]
 s;auto;Amenaza Aborto;[(1, 'Si'),(2, 'No')]
-t;auto;Antecedentes Ginecologicos Obstetricos Otro
+t;ant_ginecologicos_obstretri_otros;Antecedentes Ginecologicos Obstetricos Otro
 
 
 t;auto;Anamnesis y Evolucion
@@ -113,67 +114,67 @@ b;auto;Mortinato/Muerte Neonatal
 b;auto;TP Prolongado Parto Dificil
 
 
-s;auto;Condiciones Asociadas Qx Ginecologia Previa/Ectopico 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfemedad Renal Cronica 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Diabetes Gestacional 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Diabetes Mellitus 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfermedad Cardiaca 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfermedad Infecciosa Aguda(Bacteriana) 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfermedad Autoinmune 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Anemia(Hb<10g/l) 1 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoci_qx_gineco_previa_1_tri;Condiciones Asociadas Qx Ginecologia Previa/Ectopico 1 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoci_enfermedad_real_1_tri;Condiciones Asociadas Enfemedad Renal Cronica 1 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_diabetes_gest_1_tri;Condiciones Asociadas Diabetes Gestacional 1 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_diabetes_mellitus_1_tri;Condiciones Asociadas Diabetes Mellitus 1 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_enf_cardiaca_1_tri;Condiciones Asociadas Enfermedad Cardiaca 1 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_enf_infecci_aguda_1_tri;Condiciones Asociadas Enfermedad Infecciosa Aguda(Bacteriana) 1 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_enf_autinmune_1_tri;Condiciones Asociadas Enfermedad Autoinmune 1 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_anemia_1_tri;Condiciones Asociadas Anemia(Hb<10g/l) 1 Tri;[(1, 'Si'), (2, 'No')]
 
-s;auto;Condiciones Asociadas Qx Ginecologia Previa/Ectopico 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfemedad Renal Cronica 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Diabetes Gestacional 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Diabetes Mellitus 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfermedad Cardiaca 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfermedad Infecciosa Aguda(Bacteriana) 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfermedad Autoinmune 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Anemia(Hb<10g/l) 2 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoci_qx_gineco_previa_2_tri;Condiciones Asociadas Qx Ginecologia Previa/Ectopico 2 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoci_enfermedad_real_2_tri;Condiciones Asociadas Enfemedad Renal Cronica 2 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_diabetes_gest_2_tri;Condiciones Asociadas Diabetes Gestacional 2 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_diabetes_mellitus_2_tri;Condiciones Asociadas Diabetes Mellitus 2 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_enf_cardiaca_2_tri;Condiciones Asociadas Enfermedad Cardiaca 2 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_enf_infecci_aguda_2_tri;Condiciones Asociadas Enfermedad Infecciosa Aguda(Bacteriana) 2 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_enf_autinmune_2_tri;Condiciones Asociadas Enfermedad Autoinmune 2 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_anemia_2_tri;Condiciones Asociadas Anemia(Hb<10g/l) 2 Tri;[(1, 'Si'), (2, 'No')]
 
-s;auto;Condiciones Asociadas Qx Ginecologia Previa/Ectopico 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfemedad Renal Cronica 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Diabetes Gestacional 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Diabetes Mellitus 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfermedad Cardiaca 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfermedad Infecciosa Aguda(Bacteriana) 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Enfermedad Autoinmune 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Condiciones Asociadas Anemia(Hb<10g/l) 3 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoci_qx_gineco_previa_3_tri;Condiciones Asociadas Qx Ginecologia Previa/Ectopico 3 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoci_enfermedad_real_3_tri;Condiciones Asociadas Enfemedad Renal Cronica 3 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_diabetes_gest_3_tri;Condiciones Asociadas Diabetes Gestacional 3 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_diabetes_mellitus_3_tri;Condiciones Asociadas Diabetes Mellitus 3 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_enf_cardiaca_3_tri;Condiciones Asociadas Enfermedad Cardiaca 3 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_enf_infecci_aguda_3_tri;Condiciones Asociadas Enfermedad Infecciosa Aguda(Bacteriana) 3 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_enf_autinmune_3_tri;Condiciones Asociadas Enfermedad Autoinmune 3 Tri;[(1, 'Si'), (2, 'No')]
+s;cond_asoc_anemia_3_tri;Condiciones Asociadas Anemia(Hb<10g/l) 3 Tri;[(1, 'Si'), (2, 'No')]
 
 
 
-s;auto;Embarazo Actual Hemorragia<=20sem 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Vaginal>20sem 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Embarazo Prolongado(41sem) 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual HTA 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual RMP 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Polihidramnios 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual RCIU 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Multiple 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Mala Presentacion 1 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Isoinmunizacion R.H 1 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_hemorragia_1_tri;Embarazo Actual Hemorragia<=20sem 1 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_vaginal_1_tri;Embarazo Actual Vaginal>20sem 1 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_prolongado_1_tri;Embarazo Actual Embarazo Prolongado(41sem) 1 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_hta_1_tri;Embarazo Actual HTA 1 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_rmp_1_tri;Embarazo Actual RMP 1 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_rmp_polihidramnios_1_tri;Embarazo Actual Polihidramnios 1 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_rciu_1_tri;Embarazo Actual RCIU 1 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_multiple_1_tri;Embarazo Actual Multiple 1 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_mala_presentacion_1_tri;Embarazo Actual Mala Presentacion 1 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_isoinmunizacion_1_tri;Embarazo Actual Isoinmunizacion R.H 1 Tri;[(1, 'Si'), (2, 'No')]
 
-s;auto;Embarazo Actual Hemorragia<=20sem 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Vaginal>20sem 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Embarazo Prolongado(41sem) 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual HTA 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual RMP 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Polihidramnios 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual RCIU 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Multiple 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Mala Presentacion 2 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Isoinmunizacion R.H 2 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_hemorragia_2_tri;Embarazo Actual Hemorragia<=20sem 2 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_vaginal_2_tri;Embarazo Actual Vaginal>20sem 2 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_prolongado_2_tri;Embarazo Actual Embarazo Prolongado(41sem) 2 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_hta_2_tri;Embarazo Actual HTA 2 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_rmp_2_tri;Embarazo Actual RMP 2 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_rmp_polihidramnios_2_tri;Embarazo Actual Polihidramnios 2 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_rciu_2_tri;Embarazo Actual RCIU 2 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_multiple_2_tri;Embarazo Actual Multiple 2 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_mala_presentacion_2_tri;Embarazo Actual Mala Presentacion 2 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_isoinmunizacion_2_tri;Embarazo Actual Isoinmunizacion R.H 2 Tri;[(1, 'Si'), (2, 'No')]
 
-s;auto;Embarazo Actual Hemorragia<=20sem 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Vaginal>20sem 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Embarazo Prolongado(41sem) 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual HTA 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual RMP 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Polihidramnios 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual RCIU 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Multiple 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Mala Presentacion 3 Tri;[(1, 'Si'), (2, 'No')]
-s;auto;Embarazo Actual Isoinmunizacion R.H 3 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_hemorragia_3_tri;Embarazo Actual Hemorragia<=20sem 3 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_vaginal_3_tri;Embarazo Actual Vaginal>20sem 3 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_prolongado_3_tri;Embarazo Actual Embarazo Prolongado(41sem) 3 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_hta_3_tri;Embarazo Actual HTA 3 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_rmp_3_tri;Embarazo Actual RMP 3 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_rmp_polihidramnios_3_tri;Embarazo Actual Polihidramnios 3 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_rciu_1_tri;Embarazo Actual RCIU 3 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_multiple_3_tri;Embarazo Actual Multiple 3 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_mala_presentacion_3_tri;Embarazo Actual Mala Presentacion 3 Tri;[(1, 'Si'), (2, 'No')]
+s;emb_act_isoinmunizacion_3_tri;Embarazo Actual Isoinmunizacion R.H 3 Tri;[(1, 'Si'), (2, 'No')]
 
 
 t;auto;Riesgo Biopsicosocial

@@ -6,7 +6,9 @@ class Campos extends General{
 
 
 
+
 	function de_templates_a_field( $dato ){
+
 		// Se identifica la cadena automatica
 		$dato[1] = ( $dato[1] == 'auto' ? $this->auto(  $dato[2] ) : $dato[1] );
 		
@@ -15,9 +17,16 @@ class Campos extends General{
 			$dato[ 1 ] = str_replace('auto', $this->auto(  $dato[2] ), $dato[ 1 ]);
 		}
 
-		if( strlen($dato[ 1 ]) >= 30 ){
-			echo '<strong>' . $dato[ 1 ] . '</strong>'  . ' Campo con longitud muy amplia' . '<br />';
+		// Si dice observacion se cambia por obs
+		$dato[ 1 ] = str_replace('observacion', 'obs', $dato[ 1 ]);
+
+		if( strlen($dato[ 1 ]) >= 35 ){
+			echo '<strong>' . $dato[ 1 ] . '</strong>' . ' '. $dato[ 2 ] .' '  . ' Campo con longitud muy amplia' . '<br />';
 		}
+
+		/*if( in_array( $dato[ 1 ], $this->campos_leidos ) ){
+			echo '<strong>' . $dato[ 1 ] . '</strong>' . ' Campo repetido';
+		}*/
 
 		// Se identifica el template.
 		$tmpl = $this->templates_campos[ $dato[ 0 ] ];
