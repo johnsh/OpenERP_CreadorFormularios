@@ -1,4 +1,4 @@
 <?php
-$trabajar_en = 'Happy';
+$trabajar_en = 'Concurrencia';
 
 ?>

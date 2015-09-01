@@ -1,0 +1,57 @@
+c;auto;IPS
+c;auto;Ciudad
+c;auto;Tipo Identificacion
+c;auto;Identificación
+c;auto;Primer Apellido
+c;auto;Segundo Apellido
+c;auto;Primer Nombre
+c;auto;Segundo Nombre
+c;auto;Genero
+i;auto;Edad
+c;auto;Tipo Edad
+c;auto;Regional
+c;auto;Regional del Usuario
+c;auto;Municipio Usuario
+d;auto;Fecha Ingreso
+c;auto;DX Principal de Ingreso
+t;auto;Descripcion DX Principal
+c;auto;DX Relacionado 1
+t;auto;Descripcion DX Relacionado 1
+c;auto;DX Relacionado 2
+t;auto;Descripcion DX Relacionado 2
+c;auto;Especialidad
+c;auto;Observacion 1
+c;auto;Observacion 2
+c;auto;Observacion 3
+c;auto;Observacion 4
+c;auto;Observacion 5
+c;auto;Observacion 6
+c;auto;Observacion 7
+c;auto;Observacion 8
+c;auto;Observacion 9
+c;auto;Observacion 10
+c;auto;Observacion 11
+c;auto;Observacion 12
+c;auto;Observacion 13
+c;auto;Observacion 14
+c;auto;Observacion 15
+c;auto;Observacion 16
+c;auto;Observacion 17
+c;auto;Observacion 18
+c;auto;Observacion 19
+c;auto;Observacion 20
+c;auto;Observacion 21
+c;auto;Observacion 22
+c;auto;Observacion 23
+c;auto;Observacion 24
+c;auto;Observacion 25
+c;auto;Observacion 26
+c;auto;Observacion 27
+c;auto;Observacion 28
+c;auto;Observacion 29
+c;auto;Observacion 30
+c;auto;Observacion 31
+d;auto;Fecha de Egreso
+i;auto;Dias de Estancia
+c;auto;DX Principal de Egreso
+t;auto;Analisis del Auditor

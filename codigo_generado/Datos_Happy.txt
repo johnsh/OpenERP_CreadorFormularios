@@ -25,7 +25,6 @@ s;auto;Neoplasias;[(1, 'Si'), (2, 'No')]
 t;auto;Neoplasias Observacion
 s;auto;Epilepsia;[(1, 'Si'), (2, 'No')]
 t;auto;Epilepsia Observacion
-s;auto;Antecedentes Familiares otros;[(1, 'Si'), (2, 'No')]
 t;antecedentes_familiares_otros;Antecedente Familiares Otros Observacion
 
 
@@ -59,7 +58,6 @@ s;auto;Actividad Fisica Excesiva;[(1, 'Si'), (2, 'No')]
 t;auto;Actividad Fisica Excesiva Observacion
 s;auto;Victima de Maltrato;[(1, 'Si'), (2, 'No')]
 t;auto;Victima de Maltrato Observacion
-s;auto;Antecedentes Personales Otros;[(1, 'Si'), (2, 'No')]
 t;auto;Antecedentes Personales Otros Observacion
 
 
@@ -84,7 +82,7 @@ s;auto;Colposcopia;[(1, 'Si'),(2, 'No')]
 s;auto;Periodo Intergenesico;[(1, u'Mayor 2 Años'),(2, 'Menor')]
 s;auto;Infertilidad;[(1, 'Si'),(2, 'No')]
 
-s;auto;Ttos de Infertilidad;[(1, 'Si'),(2, 'No'))]
+s;auto;Ttos de Infertilidad;[(1, 'Si'),(2, 'No')]
 s;auto;RPM;[(1, 'Si'),(2, 'No')]
 s;auto;RCIU;[(1, 'Si'),(2, 'No')]
 s;auto;APP;[(1, 'Si'),(2, 'No')]
@@ -179,34 +177,34 @@ s;emb_act_isoinmunizacion_3_tri;Embarazo Actual Isoinmunizacion R.H 3 Tri;[(1, '
 
 t;auto;Riesgo Biopsicosocial
 
-s;auto;Riesgo Biopsicosocial Prenatal Semana 14 - 27;[(1, 'Bajo < 3'), ('Alto >= 3')]
-i;auto;Riesgo Biopsicosocial Prenatal Semana 14 - 27 Total
+s;riesgo_biop_pre_14_27;Riesgo Biopsicosocial Prenatal Semana 14 - 27;[(1, 'Bajo < 3'), (2, 'Alto >= 3')]
+i;riesgo_biop_pre_14_27_total;Riesgo Biopsicosocial Prenatal Semana 14 - 27 Total
 
-s;auto;Riesgo Biopsicosocial Prenatal Semana 28 - 32;[(1, 'Bajo < 3'), ('Alto >= 3')]
-i;auto;Riesgo Biopsicosocial Prenatal Semana 28 - 32 Total
+s;riesgo_biop_pre_28_32;Riesgo Biopsicosocial Prenatal Semana 28 - 32;[(1, 'Bajo < 3'), (2, 'Alto >= 3')]
+i;riesgo_biop_pre_28_32_total;Riesgo Biopsicosocial Prenatal Semana 28 - 32 Total
 
-s;auto;Riesgo Biopsicosocial Prenatal Semana 32 - 42;[(1, 'Bajo < 3'), ('Alto >= 3')]
-i;auto;Riesgo Biopsicosocial Prenatal Semana 32 - 42 Total
+s;riesgo_biop_pre_32_42;Riesgo Biopsicosocial Prenatal Semana 32 - 42;[(1, 'Bajo < 3'), (2, 'Alto >= 3')]
+i;riesgo_biop_pre_32_42_total;Riesgo Biopsicosocial Prenatal Semana 32 - 42 Total
 
 
-f;auto;Examenes Durante Embarazo Hb mg/dll;(3,2)
-d;auto;Examenes Durante Embarazo Hb mg/dll Fecha
+f;exam_dur_embarazo_hb;Examenes Durante Embarazo Hb mg/dll;(3,2)
+d;exam_dur_embarazo_hb_fecha;Examenes Durante Embarazo Hb mg/dll Fecha
 
-s;auto;Examenes Durante Embarazo VDRL;[(1, 'Reactivo'), (2, 'No Reactivo')]
-d;auto;Examenes Durante Embarazo VDRL Fecha
+s;exam_dur_embarazo_vdrl;Examenes Durante Embarazo VDRL;[(1, 'Reactivo'), (2, 'No Reactivo')]
+d;exam_dur_embarazo_vdrl_fecha;Examenes Durante Embarazo VDRL Fecha
 
-s;auto;Examenes Durante Embarazo VIH;[(1, 'Reactivo'), (2, 'No Reactivo')]
-d;auto;Examenes Durante Embarazo VIH Fecha
+s;exam_dur_embarazo_vih;Examenes Durante Embarazo VIH;[(1, 'Reactivo'), (2, 'No Reactivo')]
+d;exam_dur_embarazo_vih_fecha;Examenes Durante Embarazo VIH Fecha
 
-s;auto;Examenes Durante Embarazo Hepatitis B;[(1, 'Reactivo'), (2, 'No Reactivo')]
-d;auto;Examenes Durante Embarazo Hepatitis B Fecha
+s;exam_dur_embarazo_hepatitisb;Examenes Durante Embarazo Hepatitis B;[(1, 'Reactivo'), (2, 'No Reactivo')]
+d;exam_dur_embarazo_hepatitisb_fecha;Examenes Durante Embarazo Hepatitis B Fecha
 
-s;auto;Examenes Durante Embarazo Citologia Cervical;[(1, 'Normal'), (2, 'Anormal')]
-d;auto;Examenes Durante Embarazo Citologia Cervical Fecha
+s;exam_dur_embarazo_cit_cer;Examenes Durante Embarazo Citologia Cervical;[(1, 'Normal'), (2, 'Anormal')]
+d;exam_dur_embarazo_cit_cer_fecha;Examenes Durante Embarazo Citologia Cervical Fecha
 
-t;auto;Examenes Durante Embarazo Ecografia
+t;exam_dur_embarazo_ecografia;Examenes Durante Embarazo Ecografia
 
-m2o;auto;delphos.generales_gruposanguineo;Grupo y RH
+m2o;grupo_sanguineo_id;Grupo y RH;delphos.generales_gruposanguineo;
 
 s;auto;Coombs Ind Sem 16;[('1', 'Positivo'),(2, 'Negativo')]
 d;auto;Coombs Ind Sem 16 Fecha
@@ -290,11 +288,11 @@ s;auto;Citologia Cervical 3 Tri;[(1, 'Normal'),(2, 'Anormal')]
 
 
 
-i;auto;Eco 1 Tri Edad Gestacional Segun Ecografia
-s;auto;Eco 1 Tri Correspondencia Con La Edad Gestacional por amenorrea;[(1, 'Si'),(2, 'No')]
-s;auto;Eco 1 Tri Presencia de Hematoma;[(1, 'Si'),(2, 'No')]
-s;auto;Eco 1 Tri Sonolucencia Nucal;[(1, 'Normal'),(2, 'Anormal')]
-s;auto;Eco 1 Tri Otros Marcadores de Aneuploidia;[(1, 'Si'),(2, 'No')]
+i;eco_1_tri_edad_gestacional_eco;Eco 1 Tri Edad Gestacional Segun Ecografia
+s;eco_1_tri_correspondencia;Eco 1 Tri Correspondencia Con La Edad Gestacional por amenorrea;[(1, 'Si'),(2, 'No')]
+s;eco_1_tri_presencia_hematoma;Eco 1 Tri Presencia de Hematoma;[(1, 'Si'),(2, 'No')]
+s;eco_1_tri_sonolucencia;Eco 1 Tri Sonolucencia Nucal;[(1, 'Normal'),(2, 'Anormal')]
+s;eco_1_otros_marcadores;Eco 1 Tri Otros Marcadores de Aneuploidia;[(1, 'Si'),(2, 'No')]
 
 b;auto;Eco 2 Tri Normal
 b;auto;Eco 2 Tri Polihidramnios
@@ -313,48 +311,53 @@ b;auto;Eco 3 Tri Macrosomia
 b;auto;Eco 3 Tri Otras Anormalidades
 
 
-b;auto;Morbilidad Materna Ninguna
-b;auto;Morbilidad Materna Preclamsia Leve
-b;auto;Morbilidad Materna Hipertension Gestacional
-b;auto;Morbilidad Materna Sifilis
-b;auto;Morbilidad Materna VIH
-b;auto;Morbilidad Materna Hemorragia del Primer Trimestre
-b;auto;Morbilidad Materna Ruptura Prematura de Membranas
-b;auto;Morbilidad Materna Sepsis Puerperal
-b;auto;Morbilidad Materna Atonia Uterina
-b;auto;Morbilidad Materna CID
-b;auto;Morbilidad Materna Embarazo Multiple
-b;auto;Morbilidad Materna Preclamsia Severa
-b;auto;Morbilidad Materna Eclampsia
-b;auto;Morbilidad Materna Diabetes Mellitus Previa
-b;auto;Morbilidad Materna Malaria
-b;auto;Morbilidad Materna TBC
-b;auto;Morbilidad Materna Placenta Previa
-b;auto;Morbilidad Materna Anemia
-b;auto;Morbilidad Materna Hemorragia Postparto
-b;auto;Morbilidad Materna Desgarros Perinatales
-b;auto;Morbilidad Materna Hipertension Cronica
-b;auto;Morbilidad Materna Preclamsia Severa Con Sindrome HELLP
-b;auto;Morbilidad Materna Cardiopatia
-b;auto;Morbilidad Materna Infeccion Aurinaria
-b;auto;Morbilidad Materna Hepatitis Viral
-b;auto;Morbilidad Materna Amenaza o Trabajo de Parto Prematuro
-b;auto;Morbilidad Materna Abruptio Placenta
-b;auto;Morbilidad Materna R.C.I.U
-b;auto;Morbilidad Materna Placenta Retenida
-b;auto;Morbilidad Materna Tromboembolismo Pulmonar
-t;auto;Morbilidad Materna Otros Cual ?
+b;mor_materna_ninguna;Morbilidad Materna Ninguna
+b;mor_materna_preclamsia_leve;Morbilidad Materna Preclamsia Leve
+b;mor_materna_hiper_gest;Morbilidad Materna Hipertension Gestacional
+b;mor_materna_sifilis;Morbilidad Materna Sifilis
+b;mor_materna_vih;Morbilidad Materna VIH
+b;mor_materna_hemorragia_trimestre;Morbilidad Materna Hemorragia del Primer Trimestre
+b;mor_materna_rup_prema_memb;Morbilidad Materna Ruptura Prematura de Membranas
+b;mor_materna_sepsis_puerperal;Morbilidad Materna Sepsis Puerperal
+b;mor_materna_atonia_uterina;Morbilidad Materna Atonia Uterina
+b;mor_materna_cid;Morbilidad Materna CID
+b;mor_materna_embarazo_multiple;Morbilidad Materna Embarazo Multiple
+b;mor_materna_preclamsia_severa;Morbilidad Materna Preclamsia Severa
+b;mor_materna_eclampsia;Morbilidad Materna Eclampsia
+b;mor_materna_dia_mel_previa;Morbilidad Materna Diabetes Mellitus Previa
+b;mor_materna_malaria;Morbilidad Materna Malaria
+b;mor_materna_tbc;Morbilidad Materna TBC
+b;mor_materna_placenta_previa;Morbilidad Materna Placenta Previa
+b;mor_materna_anemia;Morbilidad Materna Anemia
+b;mor_materna_hemorragia_postparto;Morbilidad Materna Hemorragia Postparto
+b;mor_materna_desgarros_perinatales;Morbilidad Materna Desgarros Perinatales
+b;mor_materna_hipertension_cronica;Morbilidad Materna Hipertension Cronica
+b;mor_materna_pre_sev_helpp;Morbilidad Materna Preclamsia Severa Con Sindrome HELLP
+b;mor_materna_cardiopatia;Morbilidad Materna Cardiopatia
+b;mor_materna_infeccion_aurinaria;Morbilidad Materna Infeccion Aurinaria
+b;mor_materna_hepatitis_viral;Morbilidad Materna Hepatitis Viral
+b;mor_materna_amenaza_trabajo;Morbilidad Materna Amenaza o Trabajo de Parto Prematuro
+b;mor_materna_abruptio_placenta;Morbilidad Materna Abruptio Placenta
+b;mor_materna_rciu;Morbilidad Materna R.C.I.U
+b;mor_materna_placenta_retenida;Morbilidad Materna Placenta Retenida
+b;mor_materna_tromb_pulm;Morbilidad Materna Tromboembolismo Pulmonar
+t;mor_materna_otros;Morbilidad Materna Otros Cual ?
 
-s;auto;Morbilidades Trazadoras Preclamsia;[(1, 'Agregar Opciones')]
-t;auto;Morbilidades Trazadoras Preclamsia Observaciones
-s;auto;Morbilidades Trazadoras Parto Prematuro;[(1, 'Agregar Opciones')]
-t;auto;Morbilidades Trazadoras Parto Prematuro Observaciones
-s;auto;Morbilidades Trazadoras Diabetes Gestacional;[(1, 'Agregar Opciones')]
-t;auto;Morbilidades Trazadoras Diabetes Gestacional Observaciones
-s;auto;Morbilidades Trazadoras Bajo Peso;[(1, 'Agregar Opciones')]
-t;auto;Morbilidades Trazadoras Bajo Peso Observaciones
-s;auto;Morbilidades Trazadoras Riesgo Psicosocial;[(1, 'Agregar Opciones')]
-t;auto;Morbilidades Trazadoras Riesgo Psicosocial Observaciones
-s;auto;Morbilidades Trazadoras HPP y/o Parto Obstruido;[(1, 'Agregar Opciones')]
-t;auto;Morbilidades Trazadoras HPP y/o Parto Obstruido Observaciones
 
+s;mor_tra_preclamsia;Morbilidades Trazadoras Preclamsia;[(1, 'Agregar Opciones')]
+t;mor_tra_preclamsia_obs;Morbilidades Trazadoras Preclamsia Observaciones
+
+s;mor_tra_parto_prematuro;Morbilidades Trazadoras Parto Prematuro;[(1, 'Agregar Opciones')]
+t;mor_tra_parto_prematuro_obs;Morbilidades Trazadoras Parto Prematuro Observaciones
+
+s;mor_tra_diabetes_gestacional;Morbilidades Trazadoras Diabetes Gestacional;[(1, 'Agregar Opciones')]
+t;mor_tra_diabetes_gestacional_obs;Morbilidades Trazadoras Diabetes Gestacional Observaciones
+
+s;mor_tra_bajo_peso;Morbilidades Trazadoras Bajo Peso;[(1, 'Agregar Opciones')]
+t;mor_tra_bajo_peso_obs;Morbilidades Trazadoras Bajo Peso Observaciones
+
+s;mor_tra_riesgo_psicosocial;Morbilidades Trazadoras Riesgo Psicosocial;[(1, 'Agregar Opciones')]
+t;mor_tra_riesgo_psicosocial_obs;Morbilidades Trazadoras Riesgo Psicosocial Observaciones
+
+s;mor_tra_hpp;Morbilidades Trazadoras HPP y/o Parto Obstruido;[(1, 'Agregar Opciones')]
+t;mor_tra_hpp_obs;Morbilidades Trazadoras HPP y/o Parto Obstruido Observaciones
